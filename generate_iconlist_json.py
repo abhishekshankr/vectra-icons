@@ -18,7 +18,7 @@ def generate_json_for_directory(directory, username, repository, branch):
 
 def main():
     username = 'abhishekshankr'
-    repository = 'AIcons'
+    repository = 'vectra-icons'
     branch = 'main'
 
     for folder in ['Icons/Fill', 'Icons/Stroke']:
