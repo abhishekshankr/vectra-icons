@@ -1,0 +1,6221 @@
+[
+  {
+    "name": "account-user.svg",
+    "category": "UI Controls",
+    "description": "A user account icon with a circle or badge representing a user account.",
+    "tags": [
+      "account",
+      "user",
+      "profile",
+      "person",
+      "circle",
+      "avatar",
+      "member"
+    ],
+    "aliases": [
+      "user-account",
+      "profile",
+      "avatar",
+      "member"
+    ]
+  },
+  {
+    "name": "agent-csv.svg",
+    "category": "AI Concepts",
+    "description": "An agent icon combined with CSV representing an AI agent that processes CSV data.",
+    "tags": [
+      "agent",
+      "csv",
+      "data",
+      "file",
+      "ai",
+      "process",
+      "automation"
+    ],
+    "aliases": [
+      "csv-agent",
+      "data-agent",
+      "ai-csv",
+      "file-agent"
+    ]
+  },
+  {
+    "name": "agent.svg",
+    "category": "AI Concepts",
+    "description": "A human figure with an encircling ring representing an autonomous AI agent.",
+    "tags": [
+      "agent",
+      "ai",
+      "autonomous",
+      "robot",
+      "person",
+      "orbital",
+      "loop"
+    ],
+    "aliases": [
+      "autonomous-agent",
+      "ai-agent",
+      "bot",
+      "actor"
+    ]
+  },
+  {
+    "name": "ai-label.svg",
+    "category": "AI Concepts",
+    "description": "A label badge with AI text representing an AI-labeled item or model identifier.",
+    "tags": [
+      "ai",
+      "label",
+      "badge",
+      "tag",
+      "model",
+      "identify",
+      "mark"
+    ],
+    "aliases": [
+      "ai-badge",
+      "ai-tag",
+      "model-label",
+      "ai-identifier"
+    ]
+  },
+  {
+    "name": "airtable.svg",
+    "category": "Integrations",
+    "description": "The Airtable collaborative database platform logo.",
+    "tags": [
+      "airtable",
+      "database",
+      "spreadsheet",
+      "collaboration",
+      "integration",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "airtable-logo",
+      "airtable-db",
+      "collaborative-db"
+    ]
+  },
+  {
+    "name": "anthropic.svg",
+    "category": "AI Models",
+    "description": "The Anthropic logo mark depicting stylized angular letter forms.",
+    "tags": [
+      "anthropic",
+      "logo",
+      "ai",
+      "claude",
+      "brand",
+      "company",
+      "model"
+    ],
+    "aliases": [
+      "claude",
+      "anthropic-logo",
+      "ai-company"
+    ]
+  },
+  {
+    "name": "anyscale.svg",
+    "category": "AI Models",
+    "description": "The Anyscale AI infrastructure platform logo.",
+    "tags": [
+      "anyscale",
+      "ray",
+      "compute",
+      "ai",
+      "scale",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "anyscale-logo",
+      "ray-ai",
+      "anyscale-platform"
+    ]
+  },
+  {
+    "name": "api.svg",
+    "category": "Code & Development",
+    "description": "The letters API in a container representing an Application Programming Interface.",
+    "tags": [
+      "api",
+      "interface",
+      "endpoint",
+      "integration",
+      "rest",
+      "service",
+      "request"
+    ],
+    "aliases": [
+      "api-endpoint",
+      "rest-api",
+      "interface",
+      "endpoint"
+    ]
+  },
+  {
+    "name": "apify.svg",
+    "category": "Integrations",
+    "description": "The Apify web scraping and automation platform logo.",
+    "tags": [
+      "apify",
+      "scraping",
+      "web",
+      "automation",
+      "crawl",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "apify-logo",
+      "web-scraping",
+      "apify-platform"
+    ]
+  },
+  {
+    "name": "arrow-bow.svg",
+    "category": "Navigation & Arrows",
+    "description": "A bow-shaped curved arrow representing a redirect or curved navigation path.",
+    "tags": [
+      "arrow",
+      "bow",
+      "curved",
+      "redirect",
+      "arc",
+      "navigation",
+      "path"
+    ],
+    "aliases": [
+      "bow-arrow",
+      "curved-redirect",
+      "arc-arrow",
+      "curve"
+    ]
+  },
+  {
+    "name": "arrow-circle-down.svg",
+    "category": "Navigation & Arrows",
+    "description": "A downward arrow enclosed in a circle for navigation or download.",
+    "tags": [
+      "arrow",
+      "circle",
+      "down",
+      "download",
+      "navigate",
+      "below",
+      "get"
+    ],
+    "aliases": [
+      "down-button",
+      "circle-down",
+      "navigate-down",
+      "download-circle"
+    ]
+  },
+  {
+    "name": "arrow-circle-left.svg",
+    "category": "Navigation & Arrows",
+    "description": "A leftward arrow enclosed in a circle for navigating back.",
+    "tags": [
+      "arrow",
+      "circle",
+      "left",
+      "back",
+      "navigate",
+      "previous",
+      "return"
+    ],
+    "aliases": [
+      "back-button",
+      "circle-back",
+      "previous",
+      "navigate-left"
+    ]
+  },
+  {
+    "name": "arrow-circle-right.svg",
+    "category": "Navigation & Arrows",
+    "description": "A rightward arrow enclosed in a circle for navigation forward.",
+    "tags": [
+      "arrow",
+      "circle",
+      "right",
+      "forward",
+      "navigate",
+      "next",
+      "proceed"
+    ],
+    "aliases": [
+      "next-button",
+      "circle-forward",
+      "proceed",
+      "navigate-right"
+    ]
+  },
+  {
+    "name": "arrow-circle-up.svg",
+    "category": "Navigation & Arrows",
+    "description": "An upward arrow enclosed in a circle for navigation or upload.",
+    "tags": [
+      "arrow",
+      "circle",
+      "up",
+      "upload",
+      "navigate",
+      "above",
+      "scroll"
+    ],
+    "aliases": [
+      "up-button",
+      "circle-up",
+      "navigate-up",
+      "scroll-top"
+    ]
+  },
+  {
+    "name": "arrow-clockwise.svg",
+    "category": "Navigation & Arrows",
+    "description": "A circular arrow turning clockwise to represent refresh or redo.",
+    "tags": [
+      "rotate",
+      "clockwise",
+      "refresh",
+      "redo",
+      "spin",
+      "circular",
+      "loop"
+    ],
+    "aliases": [
+      "redo",
+      "rotate-right",
+      "refresh",
+      "spin"
+    ]
+  },
+  {
+    "name": "arrow-counter-clockwise.svg",
+    "category": "Navigation & Arrows",
+    "description": "A circular arrow turning counter-clockwise to represent undo or reset.",
+    "tags": [
+      "rotate",
+      "counter-clockwise",
+      "undo",
+      "reset",
+      "back",
+      "reverse",
+      "loop"
+    ],
+    "aliases": [
+      "undo",
+      "rotate-left",
+      "reset",
+      "reverse"
+    ]
+  },
+  {
+    "name": "arrow-down-curved-alt.svg",
+    "category": "Navigation & Arrows",
+    "description": "An alternative curved downward arrow for navigation.",
+    "tags": [
+      "arrow",
+      "down",
+      "curved",
+      "alt",
+      "navigate",
+      "arc",
+      "descent"
+    ],
+    "aliases": [
+      "curved-down-alt",
+      "arc-down-alt",
+      "descent-curve-alt"
+    ]
+  },
+  {
+    "name": "arrow-down-curved.svg",
+    "category": "Navigation & Arrows",
+    "description": "A curved downward arrow for navigation or descent.",
+    "tags": [
+      "arrow",
+      "down",
+      "curved",
+      "descent",
+      "arc",
+      "navigation",
+      "bend"
+    ],
+    "aliases": [
+      "curved-down",
+      "arc-down",
+      "descent-curve",
+      "bend-down"
+    ]
+  },
+  {
+    "name": "arrow-down-left.svg",
+    "category": "Navigation & Arrows",
+    "description": "A diagonal arrow pointing down and to the left.",
+    "tags": [
+      "arrow",
+      "down",
+      "left",
+      "diagonal",
+      "direction",
+      "navigate",
+      "southwest"
+    ],
+    "aliases": [
+      "diagonal-down-left",
+      "southwest-arrow",
+      "downward-left"
+    ]
+  },
+  {
+    "name": "arrow-down-right.svg",
+    "category": "Navigation & Arrows",
+    "description": "A diagonal arrow pointing down and to the right.",
+    "tags": [
+      "arrow",
+      "down",
+      "right",
+      "diagonal",
+      "direction",
+      "navigate",
+      "corner"
+    ],
+    "aliases": [
+      "diagonal-down-right",
+      "corner-arrow",
+      "south-east"
+    ]
+  },
+  {
+    "name": "arrow-down.svg",
+    "category": "Navigation & Arrows",
+    "description": "A downward-pointing arrow for navigation or indicating a downward direction.",
+    "tags": [
+      "arrow",
+      "down",
+      "direction",
+      "navigate",
+      "below",
+      "descend",
+      "point"
+    ],
+    "aliases": [
+      "down",
+      "below",
+      "descend",
+      "go-down"
+    ]
+  },
+  {
+    "name": "arrow-left-curved-alt.svg",
+    "category": "Navigation & Arrows",
+    "description": "An alternative curved leftward arrow for navigation or curved back action.",
+    "tags": [
+      "arrow",
+      "left",
+      "curved",
+      "alt",
+      "back",
+      "return",
+      "arc"
+    ],
+    "aliases": [
+      "curved-back-alt",
+      "arc-left-alt",
+      "return-curve-alt"
+    ]
+  },
+  {
+    "name": "arrow-left-curved.svg",
+    "category": "Navigation & Arrows",
+    "description": "A curved leftward arrow for navigation or curved back action.",
+    "tags": [
+      "arrow",
+      "left",
+      "curved",
+      "back",
+      "return",
+      "arc",
+      "navigation"
+    ],
+    "aliases": [
+      "curved-back",
+      "arc-left",
+      "return-curve",
+      "curved-left"
+    ]
+  },
+  {
+    "name": "arrow-left.svg",
+    "category": "Navigation & Arrows",
+    "description": "A leftward-pointing arrow for navigation or back direction.",
+    "tags": [
+      "arrow",
+      "left",
+      "back",
+      "previous",
+      "navigate",
+      "direction",
+      "return"
+    ],
+    "aliases": [
+      "back",
+      "previous",
+      "go-left",
+      "return"
+    ]
+  },
+  {
+    "name": "arrow-loop-horizontal.svg",
+    "category": "Navigation & Arrows",
+    "description": "A horizontal looping arrow representing a repeat or loop action.",
+    "tags": [
+      "arrow",
+      "loop",
+      "repeat",
+      "cycle",
+      "horizontal",
+      "rotate",
+      "refresh"
+    ],
+    "aliases": [
+      "loop",
+      "repeat",
+      "cycle",
+      "iterate"
+    ]
+  },
+  {
+    "name": "arrow-loop-vertical.svg",
+    "category": "Navigation & Arrows",
+    "description": "A vertical looping arrow representing a vertical repeat or cycle.",
+    "tags": [
+      "arrow",
+      "loop",
+      "vertical",
+      "cycle",
+      "repeat",
+      "rotate",
+      "refresh"
+    ],
+    "aliases": [
+      "vertical-loop",
+      "cycle-vertical",
+      "repeat-vertical",
+      "vertical-cycle"
+    ]
+  },
+  {
+    "name": "arrow-loop.svg",
+    "category": "Navigation & Arrows",
+    "description": "A looping arrow forming a complete cycle representing a loop or iteration.",
+    "tags": [
+      "arrow",
+      "loop",
+      "cycle",
+      "repeat",
+      "iterate",
+      "circular",
+      "rotate"
+    ],
+    "aliases": [
+      "cycle",
+      "iterate",
+      "loop-arrow",
+      "circular"
+    ]
+  },
+  {
+    "name": "arrow-right-curved-alt.svg",
+    "category": "Navigation & Arrows",
+    "description": "An alternative curved rightward arrow for navigation or redirection.",
+    "tags": [
+      "arrow",
+      "right",
+      "curved",
+      "alt",
+      "redirect",
+      "arc",
+      "navigation"
+    ],
+    "aliases": [
+      "curved-right-alt",
+      "arc-right",
+      "redirect-curve",
+      "alt-curve"
+    ]
+  },
+  {
+    "name": "arrow-right-curved.svg",
+    "category": "Navigation & Arrows",
+    "description": "A curved rightward arrow for navigation or curved redirection.",
+    "tags": [
+      "arrow",
+      "right",
+      "curved",
+      "redirect",
+      "arc",
+      "navigation",
+      "forward"
+    ],
+    "aliases": [
+      "curved-right",
+      "arc-right",
+      "redirect",
+      "forward-curve"
+    ]
+  },
+  {
+    "name": "arrow-right.svg",
+    "category": "Navigation & Arrows",
+    "description": "A simple rightward-pointing arrow for navigation or directional indication.",
+    "tags": [
+      "arrow",
+      "right",
+      "direction",
+      "navigate",
+      "forward",
+      "next",
+      "point"
+    ],
+    "aliases": [
+      "next",
+      "forward",
+      "go-right",
+      "chevron-right"
+    ]
+  },
+  {
+    "name": "arrow-up-curved-alt.svg",
+    "category": "Navigation & Arrows",
+    "description": "An alternative curved upward arrow for navigation.",
+    "tags": [
+      "arrow",
+      "up",
+      "curved",
+      "alt",
+      "navigate",
+      "arc",
+      "return"
+    ],
+    "aliases": [
+      "curved-up-alt",
+      "arc-up-alt",
+      "upward-curve-alt"
+    ]
+  },
+  {
+    "name": "arrow-up-curved.svg",
+    "category": "Navigation & Arrows",
+    "description": "A curved upward arrow for navigation or return to top.",
+    "tags": [
+      "arrow",
+      "up",
+      "curved",
+      "return",
+      "back",
+      "direction",
+      "arc"
+    ],
+    "aliases": [
+      "curved-up",
+      "return-top",
+      "arc-up",
+      "upward-curve"
+    ]
+  },
+  {
+    "name": "arrow-up-left.svg",
+    "category": "Navigation & Arrows",
+    "description": "A diagonal arrow pointing up and to the left.",
+    "tags": [
+      "arrow",
+      "up",
+      "left",
+      "diagonal",
+      "direction",
+      "navigate",
+      "northwest"
+    ],
+    "aliases": [
+      "diagonal-up-left",
+      "northwest-arrow",
+      "upward-left"
+    ]
+  },
+  {
+    "name": "arrow-up-right.svg",
+    "category": "Navigation & Arrows",
+    "description": "A diagonal arrow pointing up and to the right.",
+    "tags": [
+      "arrow",
+      "up",
+      "right",
+      "diagonal",
+      "direction",
+      "navigate",
+      "northeast"
+    ],
+    "aliases": [
+      "diagonal-up-right",
+      "northeast-arrow",
+      "upward-right"
+    ]
+  },
+  {
+    "name": "arrow-up.svg",
+    "category": "Navigation & Arrows",
+    "description": "An upward-pointing arrow for navigation or indicating an upward direction.",
+    "tags": [
+      "arrow",
+      "up",
+      "direction",
+      "navigate",
+      "above",
+      "ascend",
+      "increase"
+    ],
+    "aliases": [
+      "up",
+      "above",
+      "ascend",
+      "go-up"
+    ]
+  },
+  {
+    "name": "arrows-corner-expand.svg",
+    "category": "UI Controls",
+    "description": "Arrows pointing outward from corners representing expand or maximize.",
+    "tags": [
+      "arrows",
+      "corner",
+      "expand",
+      "maximize",
+      "fullscreen",
+      "enlarge",
+      "spread"
+    ],
+    "aliases": [
+      "corner-expand",
+      "maximize",
+      "fullscreen",
+      "enlarge"
+    ]
+  },
+  {
+    "name": "arrows-corner-inwards.svg",
+    "category": "UI Controls",
+    "description": "Arrows pointing inward from corners representing compress or minimize.",
+    "tags": [
+      "arrows",
+      "corner",
+      "inwards",
+      "compress",
+      "minimize",
+      "shrink",
+      "reduce"
+    ],
+    "aliases": [
+      "corner-compress",
+      "minimize-arrows",
+      "shrink",
+      "inward-arrows"
+    ]
+  },
+  {
+    "name": "assistant.svg",
+    "category": "AI Concepts",
+    "description": "A person or bot silhouette representing an AI assistant or helper.",
+    "tags": [
+      "assistant",
+      "ai",
+      "helper",
+      "bot",
+      "agent",
+      "support",
+      "chatbot"
+    ],
+    "aliases": [
+      "ai-helper",
+      "chatbot",
+      "ai-support",
+      "bot-assistant"
+    ]
+  },
+  {
+    "name": "atoms.svg",
+    "category": "AI Concepts",
+    "description": "Atomic orbital rings around a nucleus representing fundamental elements or AI atoms.",
+    "tags": [
+      "atoms",
+      "atomic",
+      "science",
+      "physics",
+      "elements",
+      "structure",
+      "neural"
+    ],
+    "aliases": [
+      "atomic",
+      "nucleus",
+      "physics",
+      "elements"
+    ]
+  },
+  {
+    "name": "autogpt.svg",
+    "category": "AI Models",
+    "description": "The AutoGPT autonomous AI agent framework logo.",
+    "tags": [
+      "autogpt",
+      "autonomous",
+      "agent",
+      "gpt",
+      "ai",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "autogpt-logo",
+      "auto-gpt",
+      "autonomous-agent"
+    ]
+  },
+  {
+    "name": "aws.svg",
+    "category": "Integrations",
+    "description": "The Amazon Web Services (AWS) logo.",
+    "tags": [
+      "aws",
+      "amazon",
+      "cloud",
+      "infrastructure",
+      "logo",
+      "brand",
+      "integration"
+    ],
+    "aliases": [
+      "aws-logo",
+      "amazon-web-services",
+      "cloud-aws"
+    ]
+  },
+  {
+    "name": "azure.svg",
+    "category": "Integrations",
+    "description": "The Microsoft Azure cloud platform logo.",
+    "tags": [
+      "azure",
+      "microsoft",
+      "cloud",
+      "logo",
+      "brand",
+      "integration",
+      "infrastructure"
+    ],
+    "aliases": [
+      "azure-logo",
+      "microsoft-azure",
+      "azure-cloud"
+    ]
+  },
+  {
+    "name": "baby.svg",
+    "category": "Misc",
+    "description": "A baby or infant icon representing small, starter, or beginner context.",
+    "tags": [
+      "baby",
+      "infant",
+      "small",
+      "starter",
+      "beginner",
+      "young",
+      "new"
+    ],
+    "aliases": [
+      "infant",
+      "starter",
+      "beginner",
+      "small"
+    ]
+  },
+  {
+    "name": "bolt.svg",
+    "category": "Misc",
+    "description": "A lightning bolt representing speed, energy, or quick actions.",
+    "tags": [
+      "bolt",
+      "lightning",
+      "fast",
+      "speed",
+      "energy",
+      "flash",
+      "quick"
+    ],
+    "aliases": [
+      "lightning",
+      "fast",
+      "flash",
+      "quick"
+    ]
+  },
+  {
+    "name": "bookmark.svg",
+    "category": "UI Controls",
+    "description": "A ribbon bookmark shape for saving or marking items.",
+    "tags": [
+      "bookmark",
+      "save",
+      "mark",
+      "ribbon",
+      "favorite",
+      "tag",
+      "remember"
+    ],
+    "aliases": [
+      "save",
+      "mark",
+      "favorite",
+      "ribbon"
+    ]
+  },
+  {
+    "name": "box-code.svg",
+    "category": "Code & Development",
+    "description": "A box with code angle brackets representing a containerized code environment.",
+    "tags": [
+      "box",
+      "code",
+      "container",
+      "environment",
+      "docker",
+      "sandbox",
+      "package"
+    ],
+    "aliases": [
+      "container",
+      "sandbox",
+      "code-box",
+      "docker"
+    ]
+  },
+  {
+    "name": "bravesearch.svg",
+    "category": "Integrations",
+    "description": "The Brave Search logo icon used for privacy-focused web search integration.",
+    "tags": [
+      "brave",
+      "search",
+      "web",
+      "browser",
+      "privacy",
+      "integration",
+      "logo"
+    ],
+    "aliases": [
+      "brave-search",
+      "brave-logo",
+      "web-search"
+    ]
+  },
+  {
+    "name": "bucket.svg",
+    "category": "Memory & Storage",
+    "description": "A storage bucket icon representing cloud object storage like S3.",
+    "tags": [
+      "bucket",
+      "storage",
+      "s3",
+      "cloud",
+      "object-storage",
+      "files",
+      "container"
+    ],
+    "aliases": [
+      "s3-bucket",
+      "object-storage",
+      "storage-bucket",
+      "cloud-storage"
+    ]
+  },
+  {
+    "name": "button-check-box-cross.svg",
+    "category": "UI Controls",
+    "description": "A checkbox with an X mark representing an unchecked or rejected state.",
+    "tags": [
+      "checkbox",
+      "cross",
+      "x",
+      "unchecked",
+      "reject",
+      "no",
+      "cancel"
+    ],
+    "aliases": [
+      "unchecked",
+      "rejected",
+      "cross-box",
+      "no-check"
+    ]
+  },
+  {
+    "name": "button-check-box-multiple.svg",
+    "category": "UI Controls",
+    "description": "Multiple checkboxes representing multi-select or a list of checkable options.",
+    "tags": [
+      "checkbox",
+      "multiple",
+      "select",
+      "list",
+      "multi",
+      "form",
+      "options"
+    ],
+    "aliases": [
+      "multi-checkbox",
+      "multi-select",
+      "checkboxes",
+      "options"
+    ]
+  },
+  {
+    "name": "button-check-box-plus.svg",
+    "category": "UI Controls",
+    "description": "A checkbox with a plus sign representing adding a new checkbox item.",
+    "tags": [
+      "checkbox",
+      "plus",
+      "add",
+      "create",
+      "form",
+      "new",
+      "insert"
+    ],
+    "aliases": [
+      "add-checkbox",
+      "new-check",
+      "plus-checkbox",
+      "create-option"
+    ]
+  },
+  {
+    "name": "button-check-box.svg",
+    "category": "UI Controls",
+    "description": "A checkbox with a checkmark representing a checked/selected state.",
+    "tags": [
+      "checkbox",
+      "check",
+      "toggle",
+      "select",
+      "form",
+      "boolean",
+      "tick"
+    ],
+    "aliases": [
+      "checkbox",
+      "tick",
+      "selected",
+      "checked"
+    ]
+  },
+  {
+    "name": "button-radio.svg",
+    "category": "UI Controls",
+    "description": "A radio button representing a single-select option in a form.",
+    "tags": [
+      "radio",
+      "button",
+      "select",
+      "form",
+      "option",
+      "single",
+      "choice"
+    ],
+    "aliases": [
+      "radio-button",
+      "single-select",
+      "option-button",
+      "choice"
+    ]
+  },
+  {
+    "name": "calculator.svg",
+    "category": "Actions & Tools",
+    "description": "A calculator icon representing math computation or tools.",
+    "tags": [
+      "calculator",
+      "math",
+      "compute",
+      "calculate",
+      "arithmetic",
+      "tool",
+      "numbers"
+    ],
+    "aliases": [
+      "math",
+      "compute",
+      "arithmetic",
+      "calculation"
+    ]
+  },
+  {
+    "name": "chain-conversation.svg",
+    "category": "AI Concepts",
+    "description": "Chain links with a conversation bubble representing a conversational LangChain pipeline.",
+    "tags": [
+      "chain",
+      "conversation",
+      "langchain",
+      "chat",
+      "pipeline",
+      "linked",
+      "ai"
+    ],
+    "aliases": [
+      "conversation-chain",
+      "chat-chain",
+      "langchain-chat",
+      "ai-pipeline"
+    ]
+  },
+  {
+    "name": "chain-db.svg",
+    "category": "AI Concepts",
+    "description": "Chain links with a database representing a database chain step in a pipeline.",
+    "tags": [
+      "chain",
+      "database",
+      "langchain",
+      "sql",
+      "pipeline",
+      "db",
+      "ai"
+    ],
+    "aliases": [
+      "db-chain",
+      "database-chain",
+      "sql-chain",
+      "langchain-db"
+    ]
+  },
+  {
+    "name": "chain-get.svg",
+    "category": "AI Concepts",
+    "description": "Chain links with a GET symbol representing a chain that makes HTTP GET requests.",
+    "tags": [
+      "chain",
+      "get",
+      "http",
+      "request",
+      "langchain",
+      "api",
+      "pipeline"
+    ],
+    "aliases": [
+      "get-chain",
+      "http-get-chain",
+      "api-chain-get",
+      "fetch-chain"
+    ]
+  },
+  {
+    "name": "chain-llm.svg",
+    "category": "AI Concepts",
+    "description": "Chain links with an LLM label representing a large language model chain step.",
+    "tags": [
+      "chain",
+      "llm",
+      "language-model",
+      "langchain",
+      "pipeline",
+      "ai",
+      "step"
+    ],
+    "aliases": [
+      "llm-chain",
+      "language-model-chain",
+      "langchain-llm",
+      "ai-chain"
+    ]
+  },
+  {
+    "name": "chain-post.svg",
+    "category": "AI Concepts",
+    "description": "Chain links with a POST symbol representing a chain that makes HTTP POST requests.",
+    "tags": [
+      "chain",
+      "post",
+      "http",
+      "request",
+      "langchain",
+      "api",
+      "pipeline"
+    ],
+    "aliases": [
+      "post-chain",
+      "http-post-chain",
+      "api-chain-post",
+      "request-chain"
+    ]
+  },
+  {
+    "name": "chain-prompt.svg",
+    "category": "AI Concepts",
+    "description": "Chain links with a prompt symbol representing a prompt template chain in LangChain.",
+    "tags": [
+      "chain",
+      "prompt",
+      "template",
+      "langchain",
+      "pipeline",
+      "instruction",
+      "ai"
+    ],
+    "aliases": [
+      "prompt-chain",
+      "template-chain",
+      "langchain-prompt",
+      "ai-chain"
+    ]
+  },
+  {
+    "name": "chain-qa.svg",
+    "category": "AI Concepts",
+    "description": "Linked chain elements representing a question-answer chain pipeline.",
+    "tags": [
+      "chain",
+      "qa",
+      "question-answer",
+      "rag",
+      "langchain",
+      "pipeline",
+      "linked"
+    ],
+    "aliases": [
+      "qa-chain",
+      "question-chain",
+      "langchain",
+      "qa-pipeline"
+    ]
+  },
+  {
+    "name": "chain-sql.svg",
+    "category": "AI Concepts",
+    "description": "Chain links with an SQL label representing a database query chain.",
+    "tags": [
+      "chain",
+      "sql",
+      "database",
+      "query",
+      "langchain",
+      "pipeline",
+      "ai"
+    ],
+    "aliases": [
+      "sql-chain",
+      "database-query-chain",
+      "langchain-sql",
+      "query-chain"
+    ]
+  },
+  {
+    "name": "chain.svg",
+    "category": "AI Concepts",
+    "description": "Chain links representing a sequence of connected steps in an AI pipeline.",
+    "tags": [
+      "chain",
+      "link",
+      "sequence",
+      "pipeline",
+      "langchain",
+      "connected",
+      "steps"
+    ],
+    "aliases": [
+      "langchain",
+      "pipeline-chain",
+      "linked-steps",
+      "sequence"
+    ]
+  },
+  {
+    "name": "chat-bubble.svg",
+    "category": "Chat & Conversation",
+    "description": "A speech bubble outline representing a chat message or conversation.",
+    "tags": [
+      "chat",
+      "bubble",
+      "message",
+      "speech",
+      "conversation",
+      "dialog",
+      "talk"
+    ],
+    "aliases": [
+      "speech-bubble",
+      "message-bubble",
+      "dialog",
+      "comment"
+    ]
+  },
+  {
+    "name": "chat-code.svg",
+    "category": "Chat & Conversation",
+    "description": "A chat bubble with code angle brackets representing a code-focused chat.",
+    "tags": [
+      "chat",
+      "code",
+      "bubble",
+      "programming",
+      "dev",
+      "conversation",
+      "message"
+    ],
+    "aliases": [
+      "code-chat",
+      "coding-message",
+      "dev-chat",
+      "code-bubble"
+    ]
+  },
+  {
+    "name": "chat-conversation-code.svg",
+    "category": "Chat & Conversation",
+    "description": "Two overlapping chat bubbles with code brackets representing a coding conversation.",
+    "tags": [
+      "chat",
+      "code",
+      "conversation",
+      "code-review",
+      "discuss",
+      "dev",
+      "bubble"
+    ],
+    "aliases": [
+      "code-chat",
+      "coding-conversation",
+      "dev-chat",
+      "code-discussion"
+    ]
+  },
+  {
+    "name": "chat-conversation-dots.svg",
+    "category": "Chat & Conversation",
+    "description": "Two chat bubbles with dots representing a conversation with a typing indicator.",
+    "tags": [
+      "chat",
+      "conversation",
+      "dots",
+      "typing",
+      "bubbles",
+      "exchange",
+      "pending"
+    ],
+    "aliases": [
+      "conversation-dots",
+      "typing-conversation",
+      "dots-chat",
+      "pending-dialogue"
+    ]
+  },
+  {
+    "name": "chat-conversation.svg",
+    "category": "Chat & Conversation",
+    "description": "Two overlapping chat bubbles representing a back-and-forth conversation.",
+    "tags": [
+      "chat",
+      "conversation",
+      "bubbles",
+      "dialogue",
+      "exchange",
+      "talk",
+      "discuss"
+    ],
+    "aliases": [
+      "dialogue",
+      "discussion",
+      "exchange",
+      "multi-chat"
+    ]
+  },
+  {
+    "name": "chat-dots.svg",
+    "category": "Chat & Conversation",
+    "description": "A chat bubble with three dots representing a typing indicator or pending message.",
+    "tags": [
+      "chat",
+      "dots",
+      "typing",
+      "pending",
+      "loading",
+      "bubble",
+      "message"
+    ],
+    "aliases": [
+      "typing-indicator",
+      "pending-message",
+      "loading-chat",
+      "dots"
+    ]
+  },
+  {
+    "name": "chat-down.svg",
+    "category": "Chat & Conversation",
+    "description": "A chat bubble with a downward arrow representing downloading or scrolling down in chat.",
+    "tags": [
+      "chat",
+      "down",
+      "scroll",
+      "download",
+      "bubble",
+      "receive",
+      "arrow"
+    ],
+    "aliases": [
+      "chat-scroll",
+      "receive-chat",
+      "download-chat",
+      "scroll-chat"
+    ]
+  },
+  {
+    "name": "chat-image.svg",
+    "category": "Chat & Conversation",
+    "description": "A chat bubble containing an image thumbnail representing multimodal chat.",
+    "tags": [
+      "chat",
+      "image",
+      "multimodal",
+      "bubble",
+      "visual",
+      "message",
+      "media"
+    ],
+    "aliases": [
+      "image-chat",
+      "multimodal-chat",
+      "visual-message",
+      "media-chat"
+    ]
+  },
+  {
+    "name": "chat-lines.svg",
+    "category": "Chat & Conversation",
+    "description": "A chat bubble with multiple text lines representing a detailed message.",
+    "tags": [
+      "chat",
+      "lines",
+      "message",
+      "text",
+      "bubble",
+      "detailed",
+      "paragraph"
+    ],
+    "aliases": [
+      "lines-chat",
+      "detailed-message",
+      "multi-line-chat",
+      "paragraph-chat"
+    ]
+  },
+  {
+    "name": "chat-text-alt.svg",
+    "category": "Chat & Conversation",
+    "description": "An alternative chat bubble with text lines inside.",
+    "tags": [
+      "chat",
+      "text",
+      "bubble",
+      "message",
+      "dialog",
+      "conversation",
+      "reply"
+    ],
+    "aliases": [
+      "message-bubble",
+      "text-chat",
+      "dialog",
+      "chat-alt"
+    ]
+  },
+  {
+    "name": "chat-text.svg",
+    "category": "Chat & Conversation",
+    "description": "A chat bubble with text lines inside representing a text conversation message.",
+    "tags": [
+      "chat",
+      "text",
+      "bubble",
+      "message",
+      "conversation",
+      "line",
+      "talk"
+    ],
+    "aliases": [
+      "text-chat",
+      "message-bubble",
+      "chat-message",
+      "conversation"
+    ]
+  },
+  {
+    "name": "chat-up.svg",
+    "category": "Chat & Conversation",
+    "description": "A chat bubble with an upward arrow representing sending or submitting a message.",
+    "tags": [
+      "chat",
+      "up",
+      "send",
+      "submit",
+      "message",
+      "bubble",
+      "arrow"
+    ],
+    "aliases": [
+      "send-chat",
+      "submit-message",
+      "chat-send",
+      "upload-message"
+    ]
+  },
+  {
+    "name": "check.svg",
+    "category": "Status & Feedback",
+    "description": "A simple checkmark representing completion, confirmation, or success.",
+    "tags": [
+      "check",
+      "tick",
+      "done",
+      "success",
+      "confirm",
+      "complete",
+      "valid"
+    ],
+    "aliases": [
+      "tick",
+      "done",
+      "success",
+      "confirm"
+    ]
+  },
+  {
+    "name": "cheerio.svg",
+    "category": "Integrations",
+    "description": "The Cheerio web scraping library logo.",
+    "tags": [
+      "cheerio",
+      "scraping",
+      "html",
+      "parsing",
+      "web",
+      "node",
+      "integration"
+    ],
+    "aliases": [
+      "cheerio-logo",
+      "web-scraper",
+      "html-parser",
+      "scraping"
+    ]
+  },
+  {
+    "name": "chroma.svg",
+    "category": "Vector Databases",
+    "description": "The Chroma vector database logo.",
+    "tags": [
+      "chroma",
+      "vector-database",
+      "embedding",
+      "search",
+      "logo",
+      "brand",
+      "ai"
+    ],
+    "aliases": [
+      "chroma-logo",
+      "chroma-db",
+      "vector-db",
+      "chromadb"
+    ]
+  },
+  {
+    "name": "clipboard-shield.svg",
+    "category": "Actions & Tools",
+    "description": "A clipboard with a shield representing secure or protected clipboard data.",
+    "tags": [
+      "clipboard",
+      "shield",
+      "secure",
+      "protect",
+      "safe",
+      "copy",
+      "privacy"
+    ],
+    "aliases": [
+      "secure-clipboard",
+      "protected-copy",
+      "safe-paste",
+      "private-clipboard"
+    ]
+  },
+  {
+    "name": "clipboard.svg",
+    "category": "Actions & Tools",
+    "description": "A clipboard with a document representing copy-paste or task tracking.",
+    "tags": [
+      "clipboard",
+      "copy",
+      "paste",
+      "board",
+      "task",
+      "document",
+      "note"
+    ],
+    "aliases": [
+      "copy-board",
+      "paste",
+      "task-list",
+      "board"
+    ]
+  },
+  {
+    "name": "clock-time.svg",
+    "category": "Misc",
+    "description": "A clock face with hour and minute hands representing time.",
+    "tags": [
+      "clock",
+      "time",
+      "schedule",
+      "watch",
+      "timer",
+      "history",
+      "duration"
+    ],
+    "aliases": [
+      "time",
+      "timer",
+      "schedule",
+      "watch"
+    ]
+  },
+  {
+    "name": "cloud-download.svg",
+    "category": "Actions & Tools",
+    "description": "A cloud with a downward arrow representing downloading from cloud storage.",
+    "tags": [
+      "cloud",
+      "download",
+      "fetch",
+      "retrieve",
+      "storage",
+      "remote",
+      "pull"
+    ],
+    "aliases": [
+      "download-cloud",
+      "cloud-pull",
+      "remote-download",
+      "fetch-cloud"
+    ]
+  },
+  {
+    "name": "cloud-upload.svg",
+    "category": "Actions & Tools",
+    "description": "A cloud with an upward arrow representing uploading data to cloud storage.",
+    "tags": [
+      "cloud",
+      "upload",
+      "transfer",
+      "sync",
+      "storage",
+      "remote",
+      "push"
+    ],
+    "aliases": [
+      "upload-cloud",
+      "cloud-sync",
+      "push-cloud",
+      "remote-upload"
+    ]
+  },
+  {
+    "name": "cloud.svg",
+    "category": "Actions & Tools",
+    "description": "A cloud shape representing cloud computing or cloud storage.",
+    "tags": [
+      "cloud",
+      "storage",
+      "compute",
+      "remote",
+      "server",
+      "saas",
+      "internet"
+    ],
+    "aliases": [
+      "cloud-storage",
+      "remote",
+      "saas",
+      "hosted"
+    ]
+  },
+  {
+    "name": "code-brackets.svg",
+    "category": "Code & Development",
+    "description": "Curly braces representing code brackets used in programming syntax.",
+    "tags": [
+      "code",
+      "brackets",
+      "curly",
+      "syntax",
+      "programming",
+      "block",
+      "json"
+    ],
+    "aliases": [
+      "curly-braces",
+      "json-brackets",
+      "code-block",
+      "braces"
+    ]
+  },
+  {
+    "name": "code.svg",
+    "category": "Code & Development",
+    "description": "Angle bracket code symbols representing source code or programming.",
+    "tags": [
+      "code",
+      "programming",
+      "brackets",
+      "syntax",
+      "developer",
+      "source",
+      "script"
+    ],
+    "aliases": [
+      "source-code",
+      "programming",
+      "dev",
+      "syntax"
+    ]
+  },
+  {
+    "name": "cohere.svg",
+    "category": "AI Models",
+    "description": "The Cohere AI platform logo.",
+    "tags": [
+      "cohere",
+      "ai",
+      "model",
+      "nlp",
+      "logo",
+      "brand",
+      "llm"
+    ],
+    "aliases": [
+      "cohere-logo",
+      "cohere-ai",
+      "cohere-model"
+    ]
+  },
+  {
+    "name": "compass.svg",
+    "category": "Navigation & Arrows",
+    "description": "A compass rose or drawing compass representing direction or navigation.",
+    "tags": [
+      "compass",
+      "direction",
+      "navigate",
+      "explore",
+      "bearing",
+      "guide",
+      "map"
+    ],
+    "aliases": [
+      "direction",
+      "navigate",
+      "explore",
+      "guide"
+    ]
+  },
+  {
+    "name": "confluence.svg",
+    "category": "Integrations",
+    "description": "The Atlassian Confluence wiki platform logo.",
+    "tags": [
+      "confluence",
+      "atlassian",
+      "wiki",
+      "documentation",
+      "integration",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "confluence-logo",
+      "atlassian-confluence",
+      "wiki",
+      "knowledge-base"
+    ]
+  },
+  {
+    "name": "copy.svg",
+    "category": "Actions & Tools",
+    "description": "Two overlapping rectangles indicating a copy action.",
+    "tags": [
+      "copy",
+      "duplicate",
+      "clipboard",
+      "paste",
+      "clone",
+      "replicate",
+      "action"
+    ],
+    "aliases": [
+      "duplicate",
+      "clipboard",
+      "clone",
+      "replicate"
+    ]
+  },
+  {
+    "name": "cross-x.svg",
+    "category": "UI Controls",
+    "description": "An X cross mark for closing, dismissing, or canceling.",
+    "tags": [
+      "cross",
+      "x",
+      "close",
+      "dismiss",
+      "cancel",
+      "remove",
+      "clear"
+    ],
+    "aliases": [
+      "x",
+      "close",
+      "dismiss",
+      "cancel"
+    ]
+  },
+  {
+    "name": "database-cache.svg",
+    "category": "Memory & Storage",
+    "description": "A database icon with a lightning bolt representing cached database access.",
+    "tags": [
+      "database",
+      "cache",
+      "fast",
+      "storage",
+      "query",
+      "performance",
+      "redis"
+    ],
+    "aliases": [
+      "cached-db",
+      "fast-storage",
+      "cache",
+      "db-cache"
+    ]
+  },
+  {
+    "name": "database-conversation.svg",
+    "category": "Vector Databases",
+    "description": "A database cylinder with a chat bubble representing querying a database through conversation.",
+    "tags": [
+      "database",
+      "conversation",
+      "chat",
+      "query",
+      "nl2sql",
+      "talk",
+      "ai"
+    ],
+    "aliases": [
+      "chat-db",
+      "nl2sql",
+      "database-chat",
+      "conversational-db"
+    ]
+  },
+  {
+    "name": "database-down.svg",
+    "category": "Vector Databases",
+    "description": "A database with a downward arrow representing data download or read from database.",
+    "tags": [
+      "database",
+      "down",
+      "read",
+      "fetch",
+      "retrieve",
+      "query",
+      "get"
+    ],
+    "aliases": [
+      "db-read",
+      "fetch-database",
+      "database-get",
+      "retrieve-db"
+    ]
+  },
+  {
+    "name": "database-left.svg",
+    "category": "Vector Databases",
+    "description": "A database with a leftward arrow representing data export or query result flowing left.",
+    "tags": [
+      "database",
+      "left",
+      "export",
+      "query",
+      "arrow",
+      "storage",
+      "retrieve"
+    ],
+    "aliases": [
+      "db-left",
+      "database-export",
+      "retrieve-left",
+      "query-left"
+    ]
+  },
+  {
+    "name": "database-right.svg",
+    "category": "Vector Databases",
+    "description": "A database with a rightward arrow representing data flowing or exporting to the right.",
+    "tags": [
+      "database",
+      "right",
+      "export",
+      "send",
+      "arrow",
+      "storage",
+      "output"
+    ],
+    "aliases": [
+      "db-right",
+      "database-send",
+      "output-db",
+      "db-export"
+    ]
+  },
+  {
+    "name": "database-tool.svg",
+    "category": "Vector Databases",
+    "description": "A database with a wrench representing database tools or management operations.",
+    "tags": [
+      "database",
+      "tool",
+      "manage",
+      "admin",
+      "configure",
+      "wrench",
+      "ops"
+    ],
+    "aliases": [
+      "db-tool",
+      "database-admin",
+      "manage-db",
+      "db-wrench"
+    ]
+  },
+  {
+    "name": "database-up.svg",
+    "category": "Vector Databases",
+    "description": "A database with an upward arrow representing data upload or write to database.",
+    "tags": [
+      "database",
+      "up",
+      "write",
+      "upload",
+      "insert",
+      "storage",
+      "push"
+    ],
+    "aliases": [
+      "db-write",
+      "write-database",
+      "upload-db",
+      "insert-db"
+    ]
+  },
+  {
+    "name": "database.svg",
+    "category": "Vector Databases",
+    "description": "A cylindrical database icon with horizontal rings representing data storage.",
+    "tags": [
+      "database",
+      "storage",
+      "data",
+      "cylinder",
+      "server",
+      "sql",
+      "store"
+    ],
+    "aliases": [
+      "db",
+      "storage",
+      "data-store",
+      "server"
+    ]
+  },
+  {
+    "name": "disk-down.svg",
+    "category": "Memory & Storage",
+    "description": "A disk icon with a downward arrow representing reading or downloading from disk.",
+    "tags": [
+      "disk",
+      "down",
+      "read",
+      "load",
+      "fetch",
+      "storage",
+      "pull"
+    ],
+    "aliases": [
+      "read-disk",
+      "disk-read",
+      "load-disk",
+      "pull-from-disk"
+    ]
+  },
+  {
+    "name": "disk-up.svg",
+    "category": "Memory & Storage",
+    "description": "A disk icon with an upward arrow representing writing or uploading to disk.",
+    "tags": [
+      "disk",
+      "up",
+      "write",
+      "upload",
+      "save",
+      "storage",
+      "push"
+    ],
+    "aliases": [
+      "write-disk",
+      "disk-write",
+      "upload-disk",
+      "save-to-disk"
+    ]
+  },
+  {
+    "name": "disk.svg",
+    "category": "Memory & Storage",
+    "description": "A circular disk representing data storage or saving.",
+    "tags": [
+      "disk",
+      "storage",
+      "save",
+      "memory",
+      "drive",
+      "floppy",
+      "persist"
+    ],
+    "aliases": [
+      "floppy-disk",
+      "save",
+      "drive",
+      "storage"
+    ]
+  },
+  {
+    "name": "dots-embedding.svg",
+    "category": "AI Concepts",
+    "description": "A grid of dots representing embeddings or vector representations.",
+    "tags": [
+      "dots",
+      "embedding",
+      "vector",
+      "representation",
+      "ai",
+      "semantic",
+      "encode"
+    ],
+    "aliases": [
+      "vector-dots",
+      "embeddings",
+      "vector-representation",
+      "encode"
+    ]
+  },
+  {
+    "name": "dynamodb.svg",
+    "category": "Vector Databases",
+    "description": "The AWS DynamoDB NoSQL database logo.",
+    "tags": [
+      "dynamodb",
+      "aws",
+      "nosql",
+      "database",
+      "amazon",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "dynamo",
+      "dynamodb-logo",
+      "aws-dynamodb",
+      "nosql-db"
+    ]
+  },
+  {
+    "name": "elasticsearch.svg",
+    "category": "Vector Databases",
+    "description": "The Elasticsearch search engine logo.",
+    "tags": [
+      "elasticsearch",
+      "search",
+      "index",
+      "analytics",
+      "logo",
+      "brand",
+      "database"
+    ],
+    "aliases": [
+      "elastic-logo",
+      "search-engine",
+      "elastic-search",
+      "elk"
+    ]
+  },
+  {
+    "name": "erase.svg",
+    "category": "Actions & Tools",
+    "description": "An eraser icon representing clearing or deleting content.",
+    "tags": [
+      "erase",
+      "clear",
+      "delete",
+      "remove",
+      "wipe",
+      "clean",
+      "rubber"
+    ],
+    "aliases": [
+      "clear",
+      "wipe",
+      "remove",
+      "clean"
+    ]
+  },
+  {
+    "name": "error-x-circle.svg",
+    "category": "Status & Feedback",
+    "description": "A circle with an X representing an error or failed state.",
+    "tags": [
+      "error",
+      "x",
+      "circle",
+      "fail",
+      "problem",
+      "invalid",
+      "wrong"
+    ],
+    "aliases": [
+      "fail",
+      "invalid",
+      "error-circle",
+      "wrong"
+    ]
+  },
+  {
+    "name": "error-x-octagon.svg",
+    "category": "Status & Feedback",
+    "description": "An octagon with an X representing a critical error or stop.",
+    "tags": [
+      "error",
+      "x",
+      "octagon",
+      "critical",
+      "stop",
+      "fail",
+      "block"
+    ],
+    "aliases": [
+      "critical-error",
+      "stop-error",
+      "fail-octagon",
+      "block"
+    ]
+  },
+  {
+    "name": "error-x-triangle.svg",
+    "category": "Status & Feedback",
+    "description": "A triangle with an X representing an error warning.",
+    "tags": [
+      "error",
+      "x",
+      "triangle",
+      "warning",
+      "fail",
+      "problem",
+      "wrong"
+    ],
+    "aliases": [
+      "fail-triangle",
+      "error-warning",
+      "wrong-triangle",
+      "problem"
+    ]
+  },
+  {
+    "name": "eye-hidden.svg",
+    "category": "UI Controls",
+    "description": "An eye with a strikethrough representing hidden or invisible content.",
+    "tags": [
+      "eye",
+      "hidden",
+      "invisible",
+      "hide",
+      "password",
+      "private",
+      "mask"
+    ],
+    "aliases": [
+      "hide",
+      "invisible",
+      "masked",
+      "password-hide"
+    ]
+  },
+  {
+    "name": "eye-open.svg",
+    "category": "UI Controls",
+    "description": "An open eye representing visible or observable content.",
+    "tags": [
+      "eye",
+      "visible",
+      "view",
+      "show",
+      "observe",
+      "reveal",
+      "watch"
+    ],
+    "aliases": [
+      "show",
+      "visible",
+      "reveal",
+      "observe"
+    ]
+  },
+  {
+    "name": "figma.svg",
+    "category": "Integrations",
+    "description": "The Figma design tool logo.",
+    "tags": [
+      "figma",
+      "design",
+      "ui",
+      "prototype",
+      "logo",
+      "brand",
+      "integration"
+    ],
+    "aliases": [
+      "figma-logo",
+      "design-tool",
+      "ui-design"
+    ]
+  },
+  {
+    "name": "file-archive.svg",
+    "category": "Data & Files",
+    "description": "A file icon with an archive symbol representing a compressed archive file.",
+    "tags": [
+      "archive",
+      "file",
+      "zip",
+      "compress",
+      "bundle",
+      "package",
+      "tar"
+    ],
+    "aliases": [
+      "zip-file",
+      "compress-file",
+      "bundle",
+      "archive-file"
+    ]
+  },
+  {
+    "name": "file-csv.svg",
+    "category": "Data & Files",
+    "description": "A file icon with CSV label representing a comma-separated values file.",
+    "tags": [
+      "csv",
+      "file",
+      "data",
+      "spreadsheet",
+      "comma",
+      "format",
+      "tabular"
+    ],
+    "aliases": [
+      "csv-file",
+      "spreadsheet-file",
+      "data-file",
+      "comma-separated"
+    ]
+  },
+  {
+    "name": "file-database.svg",
+    "category": "Data & Files",
+    "description": "A file icon with a database symbol representing a database schema or data file.",
+    "tags": [
+      "file",
+      "database",
+      "schema",
+      "data",
+      "document",
+      "sql",
+      "structure"
+    ],
+    "aliases": [
+      "database-file",
+      "schema-file",
+      "sql-file",
+      "data-doc"
+    ]
+  },
+  {
+    "name": "file-docx.svg",
+    "category": "Data & Files",
+    "description": "A file icon with DOCX label representing a Microsoft Word document.",
+    "tags": [
+      "docx",
+      "word",
+      "document",
+      "microsoft",
+      "file",
+      "format",
+      "text"
+    ],
+    "aliases": [
+      "word-file",
+      "docx-file",
+      "word-document",
+      "microsoft-word"
+    ]
+  },
+  {
+    "name": "file-download.svg",
+    "category": "Data & Files",
+    "description": "A file icon with a downward arrow representing downloading or saving a file.",
+    "tags": [
+      "file",
+      "download",
+      "save",
+      "receive",
+      "arrow-down",
+      "import",
+      "get"
+    ],
+    "aliases": [
+      "download-file",
+      "save-file",
+      "receive-file",
+      "import"
+    ]
+  },
+  {
+    "name": "file-edit.svg",
+    "category": "Data & Files",
+    "description": "A file icon with an edit pencil representing editing a document.",
+    "tags": [
+      "file",
+      "edit",
+      "pencil",
+      "document",
+      "modify",
+      "write",
+      "update"
+    ],
+    "aliases": [
+      "edit-file",
+      "document-edit",
+      "modify-file",
+      "write"
+    ]
+  },
+  {
+    "name": "file-export.svg",
+    "category": "Data & Files",
+    "description": "A file icon with an export arrow representing exporting or sharing a file.",
+    "tags": [
+      "file",
+      "export",
+      "share",
+      "send",
+      "transfer",
+      "arrow",
+      "document"
+    ],
+    "aliases": [
+      "export-file",
+      "share-file",
+      "send-document",
+      "transfer"
+    ]
+  },
+  {
+    "name": "file-jpg.svg",
+    "category": "Data & Files",
+    "description": "A file icon with JPG label representing a JPEG image file.",
+    "tags": [
+      "jpg",
+      "jpeg",
+      "image",
+      "file",
+      "photo",
+      "format",
+      "media"
+    ],
+    "aliases": [
+      "jpeg-file",
+      "jpg-file",
+      "photo-file",
+      "image-format"
+    ]
+  },
+  {
+    "name": "file-js.svg",
+    "category": "Code & Development",
+    "description": "A file icon with JS label representing a JavaScript source file.",
+    "tags": [
+      "javascript",
+      "js",
+      "file",
+      "code",
+      "script",
+      "frontend",
+      "source"
+    ],
+    "aliases": [
+      "js-file",
+      "javascript-file",
+      "script-file",
+      "js-source"
+    ]
+  },
+  {
+    "name": "file-json.svg",
+    "category": "Data & Files",
+    "description": "A file icon with JSON label representing a JSON data file.",
+    "tags": [
+      "json",
+      "file",
+      "data",
+      "format",
+      "config",
+      "document",
+      "api"
+    ],
+    "aliases": [
+      "json-document",
+      "json-file",
+      "config-file",
+      "data-file"
+    ]
+  },
+  {
+    "name": "file-jsx.svg",
+    "category": "Code & Development",
+    "description": "A file icon with JSX label representing a JavaScript XML source file.",
+    "tags": [
+      "jsx",
+      "javascript",
+      "react",
+      "file",
+      "code",
+      "component",
+      "frontend"
+    ],
+    "aliases": [
+      "jsx-file",
+      "react-file",
+      "js-jsx",
+      "component-file"
+    ]
+  },
+  {
+    "name": "file-leftright.svg",
+    "category": "Data & Files",
+    "description": "A file icon with left-right arrows representing a file comparison or two-way sync.",
+    "tags": [
+      "file",
+      "leftright",
+      "compare",
+      "sync",
+      "arrows",
+      "diff",
+      "bidirectional"
+    ],
+    "aliases": [
+      "file-compare",
+      "bidirectional-file",
+      "sync-file",
+      "diff"
+    ]
+  },
+  {
+    "name": "file-pdf.svg",
+    "category": "Data & Files",
+    "description": "A file icon with PDF label representing an Adobe PDF document.",
+    "tags": [
+      "pdf",
+      "file",
+      "document",
+      "format",
+      "adobe",
+      "reader",
+      "paper"
+    ],
+    "aliases": [
+      "pdf-document",
+      "adobe-pdf",
+      "pdf-file",
+      "document"
+    ]
+  },
+  {
+    "name": "file-png.svg",
+    "category": "Data & Files",
+    "description": "A file icon with PNG label representing a PNG image file.",
+    "tags": [
+      "png",
+      "image",
+      "file",
+      "photo",
+      "format",
+      "media",
+      "lossless"
+    ],
+    "aliases": [
+      "png-file",
+      "image-file",
+      "photo-png",
+      "lossless-image"
+    ]
+  },
+  {
+    "name": "file-search.svg",
+    "category": "Data & Files",
+    "description": "A file icon with a magnifying glass representing file search or document lookup.",
+    "tags": [
+      "file",
+      "search",
+      "find",
+      "document",
+      "lookup",
+      "query",
+      "explore"
+    ],
+    "aliases": [
+      "search-file",
+      "document-search",
+      "find-file",
+      "lookup"
+    ]
+  },
+  {
+    "name": "file-srt.svg",
+    "category": "Data & Files",
+    "description": "A file icon with SRT label representing a subtitle/caption file.",
+    "tags": [
+      "srt",
+      "subtitle",
+      "caption",
+      "file",
+      "video",
+      "transcript",
+      "format"
+    ],
+    "aliases": [
+      "subtitle-file",
+      "caption-file",
+      "srt-file",
+      "transcript"
+    ]
+  },
+  {
+    "name": "file-ts.svg",
+    "category": "Code & Development",
+    "description": "A file icon with TS label representing a TypeScript source file.",
+    "tags": [
+      "typescript",
+      "ts",
+      "file",
+      "code",
+      "javascript",
+      "typed",
+      "frontend"
+    ],
+    "aliases": [
+      "ts-file",
+      "typescript-file",
+      "typed-js",
+      "ts-source"
+    ]
+  },
+  {
+    "name": "file-tsx.svg",
+    "category": "Code & Development",
+    "description": "A file icon with TSX label representing a TypeScript JSX source file.",
+    "tags": [
+      "tsx",
+      "typescript",
+      "jsx",
+      "react",
+      "file",
+      "code",
+      "frontend"
+    ],
+    "aliases": [
+      "tsx-file",
+      "typescript-jsx",
+      "react-file",
+      "ts-react"
+    ]
+  },
+  {
+    "name": "file-txt.svg",
+    "category": "Data & Files",
+    "description": "A file icon with TXT label representing a plain text file.",
+    "tags": [
+      "txt",
+      "text",
+      "file",
+      "plain",
+      "document",
+      "raw",
+      "ascii"
+    ],
+    "aliases": [
+      "txt-file",
+      "plain-text",
+      "text-file",
+      "raw-text"
+    ]
+  },
+  {
+    "name": "file-upload.svg",
+    "category": "Data & Files",
+    "description": "A file icon with an upward arrow representing file upload.",
+    "tags": [
+      "file",
+      "upload",
+      "send",
+      "transfer",
+      "push",
+      "export",
+      "arrow-up"
+    ],
+    "aliases": [
+      "upload-file",
+      "send-file",
+      "transfer-file",
+      "push"
+    ]
+  },
+  {
+    "name": "file.svg",
+    "category": "Data & Files",
+    "description": "A document/file icon with a folded corner representing any generic file.",
+    "tags": [
+      "file",
+      "document",
+      "paper",
+      "attachment",
+      "generic",
+      "content",
+      "page"
+    ],
+    "aliases": [
+      "document",
+      "paper",
+      "attachment",
+      "page"
+    ]
+  },
+  {
+    "name": "fire-flame.svg",
+    "category": "Misc",
+    "description": "A flame icon representing trending, hot, or popular content.",
+    "tags": [
+      "fire",
+      "flame",
+      "hot",
+      "trending",
+      "popular",
+      "burn",
+      "energy"
+    ],
+    "aliases": [
+      "trending",
+      "hot",
+      "popular",
+      "flame"
+    ]
+  },
+  {
+    "name": "flag.svg",
+    "category": "UI Controls",
+    "description": "A flag icon representing marking, flagging, or reporting items.",
+    "tags": [
+      "flag",
+      "mark",
+      "report",
+      "signal",
+      "alert",
+      "bookmark",
+      "highlight"
+    ],
+    "aliases": [
+      "mark",
+      "report",
+      "signal",
+      "highlight"
+    ]
+  },
+  {
+    "name": "flow.svg",
+    "category": "AI Concepts",
+    "description": "A flow chart with connected nodes representing a process flow or pipeline.",
+    "tags": [
+      "flow",
+      "pipeline",
+      "process",
+      "workflow",
+      "nodes",
+      "automation",
+      "chain"
+    ],
+    "aliases": [
+      "flowchart",
+      "pipeline",
+      "process-flow",
+      "workflow"
+    ]
+  },
+  {
+    "name": "flower-plant.svg",
+    "category": "Misc",
+    "description": "A stylized flower or plant representing growth or nature.",
+    "tags": [
+      "flower",
+      "plant",
+      "nature",
+      "growth",
+      "organic",
+      "bloom",
+      "leaf"
+    ],
+    "aliases": [
+      "plant",
+      "bloom",
+      "nature",
+      "growth"
+    ]
+  },
+  {
+    "name": "folder.svg",
+    "category": "Data & Files",
+    "description": "A folder icon representing a directory or file group.",
+    "tags": [
+      "folder",
+      "directory",
+      "files",
+      "organize",
+      "container",
+      "group",
+      "path"
+    ],
+    "aliases": [
+      "directory",
+      "dir",
+      "file-folder",
+      "container"
+    ]
+  },
+  {
+    "name": "fruit-apple.svg",
+    "category": "Misc",
+    "description": "A stylized apple fruit icon.",
+    "tags": [
+      "apple",
+      "fruit",
+      "food",
+      "nature",
+      "organic",
+      "red",
+      "health"
+    ],
+    "aliases": [
+      "apple-fruit",
+      "red-apple",
+      "food",
+      "fruit"
+    ]
+  },
+  {
+    "name": "function.svg",
+    "category": "Code & Development",
+    "description": "An 'f' in parentheses representing a callable function in programming.",
+    "tags": [
+      "function",
+      "code",
+      "method",
+      "callable",
+      "lambda",
+      "programming",
+      "block"
+    ],
+    "aliases": [
+      "method",
+      "lambda",
+      "callable",
+      "function-call"
+    ]
+  },
+  {
+    "name": "git-commit.svg",
+    "category": "Code & Development",
+    "description": "A node on a line representing a git commit in version history.",
+    "tags": [
+      "git",
+      "commit",
+      "version",
+      "history",
+      "node",
+      "snapshot",
+      "code"
+    ],
+    "aliases": [
+      "git-node",
+      "version-commit",
+      "snapshot",
+      "checkpoint"
+    ]
+  },
+  {
+    "name": "git-comparison.svg",
+    "category": "Code & Development",
+    "description": "Two overlapping git branch nodes representing a diff or comparison.",
+    "tags": [
+      "git",
+      "comparison",
+      "diff",
+      "compare",
+      "version",
+      "branch",
+      "delta"
+    ],
+    "aliases": [
+      "diff",
+      "compare",
+      "git-diff",
+      "version-compare"
+    ]
+  },
+  {
+    "name": "git-fork.svg",
+    "category": "Code & Development",
+    "description": "A git fork diagram with branching nodes representing repository forking.",
+    "tags": [
+      "git",
+      "fork",
+      "branch",
+      "version",
+      "repo",
+      "code",
+      "split"
+    ],
+    "aliases": [
+      "repo-fork",
+      "git-branch-fork",
+      "repository-fork",
+      "code-fork"
+    ]
+  },
+  {
+    "name": "git-merge-closed.svg",
+    "category": "Code & Development",
+    "description": "A closed git merge symbol representing a rejected or closed pull request.",
+    "tags": [
+      "git",
+      "merge",
+      "closed",
+      "rejected",
+      "pull-request",
+      "cancel",
+      "done"
+    ],
+    "aliases": [
+      "closed-merge",
+      "rejected-pr",
+      "closed-pr",
+      "merge-closed"
+    ]
+  },
+  {
+    "name": "git-merge-pull-request.svg",
+    "category": "Code & Development",
+    "description": "A git merge/pull request diagram representing code review and merging.",
+    "tags": [
+      "git",
+      "merge",
+      "pull-request",
+      "pr",
+      "review",
+      "code",
+      "branch"
+    ],
+    "aliases": [
+      "pull-request",
+      "pr",
+      "merge-request",
+      "code-review"
+    ]
+  },
+  {
+    "name": "git-merge.svg",
+    "category": "Code & Development",
+    "description": "A git merge diagram showing two branches converging.",
+    "tags": [
+      "git",
+      "merge",
+      "branch",
+      "combine",
+      "version",
+      "code",
+      "join"
+    ],
+    "aliases": [
+      "merge-branch",
+      "git-combine",
+      "branch-merge",
+      "code-merge"
+    ]
+  },
+  {
+    "name": "git.svg",
+    "category": "Code & Development",
+    "description": "The Git version control system logo.",
+    "tags": [
+      "git",
+      "version-control",
+      "code",
+      "repository",
+      "branch",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "git-logo",
+      "version-control",
+      "vcs",
+      "source-control"
+    ]
+  },
+  {
+    "name": "gitbook.svg",
+    "category": "Integrations",
+    "description": "The GitBook documentation platform logo.",
+    "tags": [
+      "gitbook",
+      "documentation",
+      "docs",
+      "book",
+      "integration",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "gitbook-logo",
+      "documentation",
+      "docs-platform"
+    ]
+  },
+  {
+    "name": "github.svg",
+    "category": "Integrations",
+    "description": "The GitHub code hosting platform logo.",
+    "tags": [
+      "github",
+      "git",
+      "code",
+      "repository",
+      "logo",
+      "brand",
+      "version-control"
+    ],
+    "aliases": [
+      "github-logo",
+      "git-hub",
+      "octocat",
+      "repo"
+    ]
+  },
+  {
+    "name": "google-gemini.svg",
+    "category": "AI Models",
+    "description": "The Google Gemini AI model full logo.",
+    "tags": [
+      "google",
+      "gemini",
+      "model",
+      "ai",
+      "llm",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "gemini-full-logo",
+      "google-gemini-logo",
+      "google-ai"
+    ]
+  },
+  {
+    "name": "google-palm.svg",
+    "category": "AI Models",
+    "description": "The Google PaLM AI model logo.",
+    "tags": [
+      "google",
+      "palm",
+      "model",
+      "ai",
+      "llm",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "palm-logo",
+      "google-palm-model",
+      "palm-ai"
+    ]
+  },
+  {
+    "name": "google-vertex.svg",
+    "category": "AI Models",
+    "description": "The Google Vertex AI platform logo.",
+    "tags": [
+      "google",
+      "vertex",
+      "ai",
+      "cloud",
+      "model",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "vertex-ai",
+      "google-vertex-logo",
+      "vertex-platform"
+    ]
+  },
+  {
+    "name": "google.svg",
+    "category": "Integrations",
+    "description": "The Google logo representing Google services and integrations.",
+    "tags": [
+      "google",
+      "search",
+      "cloud",
+      "logo",
+      "brand",
+      "integration",
+      "workspace"
+    ],
+    "aliases": [
+      "google-logo",
+      "google-brand",
+      "google-cloud",
+      "g-suite"
+    ]
+  },
+  {
+    "name": "graph-line.svg",
+    "category": "Data & Files",
+    "description": "A line graph representing trends or data over time.",
+    "tags": [
+      "graph",
+      "line",
+      "trend",
+      "chart",
+      "data",
+      "analytics",
+      "metrics"
+    ],
+    "aliases": [
+      "line-graph",
+      "trend-line",
+      "analytics",
+      "metrics"
+    ]
+  },
+  {
+    "name": "graph-similar.svg",
+    "category": "AI Concepts",
+    "description": "A graph with similar/matching nodes representing similarity search or graph-based retrieval.",
+    "tags": [
+      "graph",
+      "similar",
+      "similarity",
+      "nodes",
+      "search",
+      "match",
+      "vector"
+    ],
+    "aliases": [
+      "similarity-graph",
+      "similar-nodes",
+      "graph-search",
+      "match"
+    ]
+  },
+  {
+    "name": "heart-rounded.svg",
+    "category": "Misc",
+    "description": "A rounded heart shape representing love, likes, or health.",
+    "tags": [
+      "heart",
+      "rounded",
+      "like",
+      "love",
+      "health",
+      "favorite",
+      "react"
+    ],
+    "aliases": [
+      "rounded-heart",
+      "love",
+      "like",
+      "health"
+    ]
+  },
+  {
+    "name": "heart-straight.svg",
+    "category": "Misc",
+    "description": "A straight/classic heart shape representing love, favorites, or likes.",
+    "tags": [
+      "heart",
+      "like",
+      "love",
+      "favorite",
+      "straight",
+      "classic",
+      "react"
+    ],
+    "aliases": [
+      "love",
+      "like",
+      "favorite",
+      "classic-heart"
+    ]
+  },
+  {
+    "name": "home-door.svg",
+    "category": "Navigation & Arrows",
+    "description": "A house with a door representing home with entry, or a welcoming screen.",
+    "tags": [
+      "home",
+      "door",
+      "house",
+      "entry",
+      "welcome",
+      "main",
+      "screen"
+    ],
+    "aliases": [
+      "house-door",
+      "entry",
+      "welcome",
+      "front-door"
+    ]
+  },
+  {
+    "name": "home.svg",
+    "category": "Navigation & Arrows",
+    "description": "A house icon representing the home or main screen.",
+    "tags": [
+      "home",
+      "house",
+      "main",
+      "start",
+      "dashboard",
+      "root",
+      "navigate"
+    ],
+    "aliases": [
+      "house",
+      "main",
+      "start",
+      "dashboard"
+    ]
+  },
+  {
+    "name": "hourglass.svg",
+    "category": "Misc",
+    "description": "An hourglass representing time passing, waiting, or a deadline.",
+    "tags": [
+      "hourglass",
+      "time",
+      "wait",
+      "deadline",
+      "loading",
+      "sand",
+      "timer"
+    ],
+    "aliases": [
+      "wait",
+      "timer",
+      "time-passing",
+      "deadline"
+    ]
+  },
+  {
+    "name": "huggingface.svg",
+    "category": "AI Models",
+    "description": "The Hugging Face AI platform logo.",
+    "tags": [
+      "huggingface",
+      "model",
+      "transformers",
+      "ai",
+      "logo",
+      "brand",
+      "hub"
+    ],
+    "aliases": [
+      "hugging-face",
+      "hf-logo",
+      "transformers",
+      "model-hub"
+    ]
+  },
+  {
+    "name": "image-landscape.svg",
+    "category": "Data & Files",
+    "description": "A landscape-orientation image frame representing a wide image or photo.",
+    "tags": [
+      "image",
+      "landscape",
+      "photo",
+      "horizontal",
+      "wide",
+      "picture",
+      "media"
+    ],
+    "aliases": [
+      "landscape-image",
+      "horizontal-image",
+      "wide-image",
+      "photo-landscape"
+    ]
+  },
+  {
+    "name": "image-portrait.svg",
+    "category": "Data & Files",
+    "description": "A portrait-orientation image frame representing a vertical or tall image.",
+    "tags": [
+      "image",
+      "portrait",
+      "photo",
+      "vertical",
+      "picture",
+      "media",
+      "file"
+    ],
+    "aliases": [
+      "portrait-image",
+      "vertical-image",
+      "photo-portrait",
+      "media"
+    ]
+  },
+  {
+    "name": "image-sparkle.svg",
+    "category": "AI Concepts",
+    "description": "An image icon with sparkle effects representing AI image generation.",
+    "tags": [
+      "image",
+      "ai",
+      "generate",
+      "sparkle",
+      "create",
+      "visual",
+      "magic"
+    ],
+    "aliases": [
+      "ai-image",
+      "generate-image",
+      "image-generation",
+      "ai-visual"
+    ]
+  },
+  {
+    "name": "image-square.svg",
+    "category": "Data & Files",
+    "description": "A square image frame with a landscape scene inside representing an image file.",
+    "tags": [
+      "image",
+      "square",
+      "photo",
+      "picture",
+      "media",
+      "visual",
+      "file"
+    ],
+    "aliases": [
+      "square-image",
+      "photo-square",
+      "image-file",
+      "media"
+    ]
+  },
+  {
+    "name": "information.svg",
+    "category": "Status & Feedback",
+    "description": "A circle with a lowercase 'i', used to indicate informational content.",
+    "tags": [
+      "information",
+      "info",
+      "help",
+      "circle",
+      "hint",
+      "tooltip",
+      "detail"
+    ],
+    "aliases": [
+      "info",
+      "hint",
+      "detail",
+      "notice"
+    ]
+  },
+  {
+    "name": "io.svg",
+    "category": "Code & Development",
+    "description": "An input/output symbol representing I/O operations or data streams.",
+    "tags": [
+      "io",
+      "input",
+      "output",
+      "stream",
+      "data",
+      "pipe",
+      "interface"
+    ],
+    "aliases": [
+      "input-output",
+      "stream",
+      "i-o",
+      "pipe"
+    ]
+  },
+  {
+    "name": "key-full.svg",
+    "category": "Actions & Tools",
+    "description": "A full/detailed key icon representing API keys or authentication credentials.",
+    "tags": [
+      "key",
+      "full",
+      "api-key",
+      "auth",
+      "credential",
+      "access",
+      "security"
+    ],
+    "aliases": [
+      "full-key",
+      "api-credential",
+      "auth-key",
+      "security-key"
+    ]
+  },
+  {
+    "name": "key-split.svg",
+    "category": "Actions & Tools",
+    "description": "A key icon with a split/fork element representing multiple or split API keys.",
+    "tags": [
+      "key",
+      "split",
+      "fork",
+      "api-key",
+      "multiple",
+      "branch",
+      "credentials"
+    ],
+    "aliases": [
+      "split-key",
+      "fork-key",
+      "multi-key",
+      "credentials"
+    ]
+  },
+  {
+    "name": "layout-four-grid.svg",
+    "category": "UI Controls",
+    "description": "A four-panel grid layout representing a 2x2 grid arrangement.",
+    "tags": [
+      "layout",
+      "four",
+      "grid",
+      "panels",
+      "2x2",
+      "view",
+      "quad"
+    ],
+    "aliases": [
+      "four-grid",
+      "2x2-layout",
+      "quad-panel",
+      "grid-layout"
+    ]
+  },
+  {
+    "name": "layout-three.svg",
+    "category": "UI Controls",
+    "description": "A three-panel layout icon representing a multi-column or split view.",
+    "tags": [
+      "layout",
+      "three",
+      "columns",
+      "panels",
+      "split",
+      "view",
+      "grid"
+    ],
+    "aliases": [
+      "three-column",
+      "triple-panel",
+      "split-layout",
+      "three-panel"
+    ]
+  },
+  {
+    "name": "layout-two-column.svg",
+    "category": "UI Controls",
+    "description": "A two-column layout icon representing a side-by-side panel view.",
+    "tags": [
+      "layout",
+      "two",
+      "columns",
+      "panels",
+      "split",
+      "view",
+      "side-by-side"
+    ],
+    "aliases": [
+      "two-column",
+      "dual-panel",
+      "split-view",
+      "side-by-side"
+    ]
+  },
+  {
+    "name": "layout-two-row.svg",
+    "category": "UI Controls",
+    "description": "A two-row layout icon representing a stacked panel arrangement.",
+    "tags": [
+      "layout",
+      "two",
+      "rows",
+      "stack",
+      "panels",
+      "view",
+      "horizontal"
+    ],
+    "aliases": [
+      "two-row",
+      "dual-row",
+      "stacked-layout",
+      "row-view"
+    ]
+  },
+  {
+    "name": "lines-heart.svg",
+    "category": "Misc",
+    "description": "Text lines with a heart icon representing liked or favorited content.",
+    "tags": [
+      "lines",
+      "heart",
+      "like",
+      "favorite",
+      "love",
+      "content",
+      "text"
+    ],
+    "aliases": [
+      "liked-content",
+      "heart-lines",
+      "favorite-text",
+      "loved"
+    ]
+  },
+  {
+    "name": "lines-image.svg",
+    "category": "Data & Files",
+    "description": "Text lines beside a small image thumbnail representing a document with media.",
+    "tags": [
+      "lines",
+      "image",
+      "document",
+      "text",
+      "media",
+      "layout",
+      "content"
+    ],
+    "aliases": [
+      "text-with-image",
+      "media-document",
+      "content-layout",
+      "document"
+    ]
+  },
+  {
+    "name": "lines-json.svg",
+    "category": "Data & Files",
+    "description": "Text lines with a JSON indicator representing structured JSON content.",
+    "tags": [
+      "lines",
+      "json",
+      "data",
+      "structured",
+      "text",
+      "format",
+      "api"
+    ],
+    "aliases": [
+      "json-lines",
+      "structured-text",
+      "json-content",
+      "data-lines"
+    ]
+  },
+  {
+    "name": "lines-search.svg",
+    "category": "Actions & Tools",
+    "description": "Text lines with a magnifying glass representing search within a document.",
+    "tags": [
+      "lines",
+      "search",
+      "find",
+      "document",
+      "text",
+      "query",
+      "lookup"
+    ],
+    "aliases": [
+      "search-lines",
+      "text-search",
+      "find-in-document",
+      "content-search"
+    ]
+  },
+  {
+    "name": "lines-sparkle.svg",
+    "category": "AI Concepts",
+    "description": "Text lines with sparkle effects representing AI-enhanced or generated text.",
+    "tags": [
+      "lines",
+      "sparkle",
+      "ai",
+      "generate",
+      "text",
+      "enhance",
+      "magic"
+    ],
+    "aliases": [
+      "ai-text",
+      "sparkle-lines",
+      "generated-text",
+      "enhanced-text"
+    ]
+  },
+  {
+    "name": "lines-text-edit.svg",
+    "category": "Actions & Tools",
+    "description": "Text lines with an edit pencil representing editing a text document.",
+    "tags": [
+      "lines",
+      "text",
+      "edit",
+      "write",
+      "pencil",
+      "document",
+      "modify"
+    ],
+    "aliases": [
+      "text-edit",
+      "edit-lines",
+      "write-text",
+      "modify-text"
+    ]
+  },
+  {
+    "name": "link.svg",
+    "category": "Actions & Tools",
+    "description": "Two interlocking chain links representing a hyperlink or connection.",
+    "tags": [
+      "link",
+      "url",
+      "chain",
+      "connect",
+      "hyperlink",
+      "anchor",
+      "href"
+    ],
+    "aliases": [
+      "url",
+      "hyperlink",
+      "chain",
+      "anchor"
+    ]
+  },
+  {
+    "name": "list.svg",
+    "category": "UI Controls",
+    "description": "Three stacked horizontal lines of varying lengths forming a text list.",
+    "tags": [
+      "list",
+      "menu",
+      "lines",
+      "items",
+      "rows",
+      "outline",
+      "navigation"
+    ],
+    "aliases": [
+      "menu",
+      "hamburger",
+      "lines",
+      "rows"
+    ]
+  },
+  {
+    "name": "llm-label.svg",
+    "category": "AI Concepts",
+    "description": "A label badge with LLM text representing a large language model designation.",
+    "tags": [
+      "llm",
+      "label",
+      "model",
+      "language",
+      "badge",
+      "tag",
+      "ai"
+    ],
+    "aliases": [
+      "large-language-model",
+      "model-label",
+      "llm-badge",
+      "model-tag"
+    ]
+  },
+  {
+    "name": "lock-closed.svg",
+    "category": "Actions & Tools",
+    "description": "A closed padlock representing locked or secured state.",
+    "tags": [
+      "lock",
+      "secure",
+      "closed",
+      "protect",
+      "padlock",
+      "auth",
+      "private"
+    ],
+    "aliases": [
+      "padlock",
+      "secured",
+      "protected",
+      "locked"
+    ]
+  },
+  {
+    "name": "lock-open.svg",
+    "category": "Actions & Tools",
+    "description": "An open padlock representing unlocked or accessible state.",
+    "tags": [
+      "lock",
+      "open",
+      "unlocked",
+      "security",
+      "access",
+      "padlock",
+      "free"
+    ],
+    "aliases": [
+      "padlock-open",
+      "unlocked",
+      "open-lock",
+      "unsecured"
+    ]
+  },
+  {
+    "name": "lunary.svg",
+    "category": "Integrations",
+    "description": "The Lunary LLM observability and analytics platform logo.",
+    "tags": [
+      "lunary",
+      "observability",
+      "analytics",
+      "llm",
+      "tracing",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "lunary-logo",
+      "llm-analytics",
+      "llm-observability"
+    ]
+  },
+  {
+    "name": "magic-wand.svg",
+    "category": "AI Concepts",
+    "description": "A magic wand with sparkle effects representing AI generation or transformation.",
+    "tags": [
+      "wand",
+      "magic",
+      "generate",
+      "transform",
+      "ai",
+      "sparkle",
+      "create"
+    ],
+    "aliases": [
+      "magic-wand",
+      "generate",
+      "transform",
+      "ai-generate"
+    ]
+  },
+  {
+    "name": "marketplace.svg",
+    "category": "Misc",
+    "description": "A storefront or marketplace icon representing an app store or marketplace.",
+    "tags": [
+      "marketplace",
+      "store",
+      "shop",
+      "browse",
+      "apps",
+      "plugins",
+      "catalog"
+    ],
+    "aliases": [
+      "app-store",
+      "store",
+      "catalog",
+      "plugins"
+    ]
+  },
+  {
+    "name": "memory-cache.svg",
+    "category": "Memory & Storage",
+    "description": "A cache memory icon with lightning bolt representing fast in-memory caching.",
+    "tags": [
+      "memory",
+      "cache",
+      "fast",
+      "storage",
+      "in-memory",
+      "performance",
+      "redis"
+    ],
+    "aliases": [
+      "cache",
+      "in-memory",
+      "fast-memory",
+      "redis-cache"
+    ]
+  },
+  {
+    "name": "memory-conversation.svg",
+    "category": "Memory & Storage",
+    "description": "A memory icon with conversation bubbles representing conversational memory for AI.",
+    "tags": [
+      "memory",
+      "conversation",
+      "chat",
+      "recall",
+      "history",
+      "ai",
+      "persist"
+    ],
+    "aliases": [
+      "chat-memory",
+      "conversation-memory",
+      "chat-history",
+      "ai-recall"
+    ]
+  },
+  {
+    "name": "memory-database.svg",
+    "category": "Memory & Storage",
+    "description": "A database icon with memory context representing stored conversational or AI memory.",
+    "tags": [
+      "memory",
+      "database",
+      "storage",
+      "recall",
+      "persistent",
+      "ai",
+      "store"
+    ],
+    "aliases": [
+      "memory-store",
+      "persistent-memory",
+      "recall-db",
+      "memory-storage"
+    ]
+  },
+  {
+    "name": "memory-window.svg",
+    "category": "Memory & Storage",
+    "description": "A window with a memory context icon representing windowed or buffered memory.",
+    "tags": [
+      "memory",
+      "window",
+      "buffer",
+      "context",
+      "recall",
+      "ai",
+      "limited"
+    ],
+    "aliases": [
+      "windowed-memory",
+      "buffer-memory",
+      "context-window-memory",
+      "limited-memory"
+    ]
+  },
+  {
+    "name": "memory.svg",
+    "category": "Memory & Storage",
+    "description": "A brain or chip icon representing AI memory or recall capability.",
+    "tags": [
+      "memory",
+      "recall",
+      "store",
+      "brain",
+      "persist",
+      "ai",
+      "retain"
+    ],
+    "aliases": [
+      "recall",
+      "ai-memory",
+      "persistent-memory",
+      "retain"
+    ]
+  },
+  {
+    "name": "microprocessor.svg",
+    "category": "Memory & Storage",
+    "description": "A microprocessor chip with connection pins representing hardware compute.",
+    "tags": [
+      "microprocessor",
+      "chip",
+      "cpu",
+      "hardware",
+      "processor",
+      "compute",
+      "silicon"
+    ],
+    "aliases": [
+      "chip",
+      "processor",
+      "cpu-chip",
+      "hardware"
+    ]
+  },
+  {
+    "name": "milvus.svg",
+    "category": "Vector Databases",
+    "description": "The Milvus vector database logo.",
+    "tags": [
+      "milvus",
+      "vector-database",
+      "embedding",
+      "search",
+      "logo",
+      "brand",
+      "ai"
+    ],
+    "aliases": [
+      "milvus-logo",
+      "milvus-db",
+      "vector-db"
+    ]
+  },
+  {
+    "name": "minus.svg",
+    "category": "UI Controls",
+    "description": "A horizontal minus line representing subtraction, remove, or collapse.",
+    "tags": [
+      "minus",
+      "remove",
+      "subtract",
+      "reduce",
+      "collapse",
+      "decrease",
+      "less"
+    ],
+    "aliases": [
+      "remove",
+      "subtract",
+      "collapse",
+      "decrease"
+    ]
+  },
+  {
+    "name": "mistralai.svg",
+    "category": "AI Models",
+    "description": "The Mistral AI company logo.",
+    "tags": [
+      "mistral",
+      "ai",
+      "model",
+      "llm",
+      "france",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "mistral-logo",
+      "mistral-brand",
+      "mistral-company"
+    ]
+  },
+  {
+    "name": "momento.svg",
+    "category": "Integrations",
+    "description": "The Momento serverless caching and storage platform logo.",
+    "tags": [
+      "momento",
+      "cache",
+      "serverless",
+      "storage",
+      "logo",
+      "brand",
+      "integration"
+    ],
+    "aliases": [
+      "momento-logo",
+      "serverless-cache",
+      "momento-cache"
+    ]
+  },
+  {
+    "name": "mongodb.svg",
+    "category": "Vector Databases",
+    "description": "The MongoDB NoSQL database logo.",
+    "tags": [
+      "mongodb",
+      "nosql",
+      "database",
+      "document",
+      "logo",
+      "brand",
+      "storage"
+    ],
+    "aliases": [
+      "mongo-logo",
+      "mongodb-db",
+      "nosql-db",
+      "document-db"
+    ]
+  },
+  {
+    "name": "moon.svg",
+    "category": "Misc",
+    "description": "A crescent moon shape used for dark mode or nighttime context.",
+    "tags": [
+      "moon",
+      "dark-mode",
+      "night",
+      "crescent",
+      "theme",
+      "sleep",
+      "toggle"
+    ],
+    "aliases": [
+      "dark-mode",
+      "night-mode",
+      "crescent",
+      "theme"
+    ]
+  },
+  {
+    "name": "motorhead.svg",
+    "category": "Integrations",
+    "description": "The Motorhead chat memory service logo.",
+    "tags": [
+      "motorhead",
+      "memory",
+      "chat",
+      "history",
+      "ai",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "motorhead-logo",
+      "motorhead-memory",
+      "chat-memory"
+    ]
+  },
+  {
+    "name": "neuralinternetbittensor.svg",
+    "category": "AI Models",
+    "description": "The Bittensor decentralized AI network logo.",
+    "tags": [
+      "bittensor",
+      "neural",
+      "internet",
+      "decentralized",
+      "ai",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "bittensor-logo",
+      "decentralized-ai",
+      "neural-internet"
+    ]
+  },
+  {
+    "name": "new-label.svg",
+    "category": "UI Controls",
+    "description": "A badge or label with 'NEW' text indicating new content or features.",
+    "tags": [
+      "new",
+      "label",
+      "badge",
+      "recent",
+      "fresh",
+      "tag",
+      "announce"
+    ],
+    "aliases": [
+      "new-badge",
+      "new-tag",
+      "recent",
+      "announce"
+    ]
+  },
+  {
+    "name": "notion-database.svg",
+    "category": "Integrations",
+    "description": "A Notion database icon representing integration with Notion databases.",
+    "tags": [
+      "notion",
+      "database",
+      "table",
+      "integration",
+      "data",
+      "brand",
+      "board"
+    ],
+    "aliases": [
+      "notion-db",
+      "notion-table",
+      "notion-data",
+      "notion-integration"
+    ]
+  },
+  {
+    "name": "notion-file.svg",
+    "category": "Integrations",
+    "description": "A Notion page/file icon representing integration with Notion documents.",
+    "tags": [
+      "notion",
+      "file",
+      "page",
+      "document",
+      "integration",
+      "notes",
+      "brand"
+    ],
+    "aliases": [
+      "notion-page",
+      "notion-doc",
+      "notion-integration",
+      "notion-document"
+    ]
+  },
+  {
+    "name": "notion-folder.svg",
+    "category": "Integrations",
+    "description": "A Notion folder icon representing Notion workspace organization.",
+    "tags": [
+      "notion",
+      "folder",
+      "workspace",
+      "organize",
+      "integration",
+      "brand",
+      "directory"
+    ],
+    "aliases": [
+      "notion-dir",
+      "notion-workspace",
+      "notion-organize"
+    ]
+  },
+  {
+    "name": "notion.svg",
+    "category": "Integrations",
+    "description": "The Notion productivity platform logo.",
+    "tags": [
+      "notion",
+      "notes",
+      "productivity",
+      "wiki",
+      "integration",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "notion-logo",
+      "notion-app",
+      "wiki"
+    ]
+  },
+  {
+    "name": "npm.svg",
+    "category": "Integrations",
+    "description": "The npm (Node Package Manager) logo.",
+    "tags": [
+      "npm",
+      "node",
+      "package",
+      "javascript",
+      "registry",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "npm-logo",
+      "node-package",
+      "package-manager",
+      "js-registry"
+    ]
+  },
+  {
+    "name": "ollama.svg",
+    "category": "AI Models",
+    "description": "The Ollama local AI model runner logo.",
+    "tags": [
+      "ollama",
+      "local",
+      "model",
+      "ai",
+      "llm",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "ollama-logo",
+      "local-ai",
+      "local-model",
+      "self-hosted-ai"
+    ]
+  },
+  {
+    "name": "openai-assistant.svg",
+    "category": "AI Models",
+    "description": "The OpenAI Assistants API icon representing a configured AI assistant.",
+    "tags": [
+      "openai",
+      "assistant",
+      "api",
+      "model",
+      "gpt",
+      "ai",
+      "configured"
+    ],
+    "aliases": [
+      "openai-assistant-api",
+      "gpt-assistant",
+      "ai-assistant",
+      "configured-agent"
+    ]
+  },
+  {
+    "name": "openai-function.svg",
+    "category": "AI Models",
+    "description": "The OpenAI logo combined with a function symbol representing function calling.",
+    "tags": [
+      "openai",
+      "function",
+      "call",
+      "tool",
+      "gpt",
+      "ai",
+      "capability"
+    ],
+    "aliases": [
+      "openai-function-call",
+      "gpt-function",
+      "ai-function-call",
+      "function-calling"
+    ]
+  },
+  {
+    "name": "openai-shield.svg",
+    "category": "AI Models",
+    "description": "The OpenAI logo combined with a shield, representing OpenAI safety or moderation.",
+    "tags": [
+      "openai",
+      "shield",
+      "safety",
+      "moderation",
+      "protect",
+      "ai",
+      "guard"
+    ],
+    "aliases": [
+      "openai-safety",
+      "ai-moderation",
+      "gpt-shield",
+      "openai-guard"
+    ]
+  },
+  {
+    "name": "openai.svg",
+    "category": "AI Models",
+    "description": "The OpenAI logo representing OpenAI models like GPT and ChatGPT.",
+    "tags": [
+      "openai",
+      "gpt",
+      "chatgpt",
+      "model",
+      "ai",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "openai-logo",
+      "gpt",
+      "chatgpt",
+      "openai-brand"
+    ]
+  },
+  {
+    "name": "openapi.svg",
+    "category": "Code & Development",
+    "description": "The OpenAPI specification logo representing REST API definitions.",
+    "tags": [
+      "openapi",
+      "swagger",
+      "api",
+      "rest",
+      "specification",
+      "schema",
+      "integration"
+    ],
+    "aliases": [
+      "swagger",
+      "openapi-spec",
+      "rest-api",
+      "api-schema"
+    ]
+  },
+  {
+    "name": "opensearch.svg",
+    "category": "Vector Databases",
+    "description": "The OpenSearch search and analytics engine logo.",
+    "tags": [
+      "opensearch",
+      "search",
+      "elasticsearch",
+      "index",
+      "logo",
+      "brand",
+      "vector"
+    ],
+    "aliases": [
+      "opensearch-logo",
+      "search-engine",
+      "elasticsearch",
+      "open-search"
+    ]
+  },
+  {
+    "name": "output-csv.svg",
+    "category": "Data & Files",
+    "description": "A document file icon with CSV label representing a comma-separated values output file.",
+    "tags": [
+      "csv",
+      "output",
+      "data",
+      "file",
+      "export",
+      "spreadsheet",
+      "format"
+    ],
+    "aliases": [
+      "csv-file",
+      "export-csv",
+      "data-export",
+      "spreadsheet"
+    ]
+  },
+  {
+    "name": "output-json.svg",
+    "category": "Data & Files",
+    "description": "A document with JSON label representing structured JSON output from an AI model.",
+    "tags": [
+      "json",
+      "output",
+      "data",
+      "format",
+      "structured",
+      "api",
+      "response"
+    ],
+    "aliases": [
+      "json-output",
+      "structured-output",
+      "api-response",
+      "json-response"
+    ]
+  },
+  {
+    "name": "output-list.svg",
+    "category": "AI Concepts",
+    "description": "A list icon representing structured list output from an AI model.",
+    "tags": [
+      "output",
+      "list",
+      "items",
+      "response",
+      "structured",
+      "ai",
+      "result"
+    ],
+    "aliases": [
+      "list-output",
+      "ai-list",
+      "structured-list",
+      "result-list"
+    ]
+  },
+  {
+    "name": "paint-palette.svg",
+    "category": "Misc",
+    "description": "A paint palette with color swatches representing design or creativity.",
+    "tags": [
+      "palette",
+      "paint",
+      "color",
+      "design",
+      "creative",
+      "art",
+      "theme"
+    ],
+    "aliases": [
+      "color-palette",
+      "design",
+      "art",
+      "creative"
+    ]
+  },
+  {
+    "name": "paperclip.svg",
+    "category": "Actions & Tools",
+    "description": "A paperclip icon representing file attachment.",
+    "tags": [
+      "paperclip",
+      "attachment",
+      "attach",
+      "file",
+      "clip",
+      "link",
+      "document"
+    ],
+    "aliases": [
+      "attachment",
+      "attach",
+      "clip",
+      "file-attach"
+    ]
+  },
+  {
+    "name": "password.svg",
+    "category": "Actions & Tools",
+    "description": "A chip or circuit-like icon with a lock representing password or credential storage.",
+    "tags": [
+      "password",
+      "credential",
+      "secure",
+      "lock",
+      "auth",
+      "secret",
+      "access"
+    ],
+    "aliases": [
+      "credentials",
+      "auth",
+      "secret",
+      "secure-password"
+    ]
+  },
+  {
+    "name": "perplexity-ai.svg",
+    "category": "AI Models",
+    "description": "The Perplexity AI search engine logo.",
+    "tags": [
+      "perplexity",
+      "search",
+      "ai",
+      "model",
+      "logo",
+      "brand",
+      "reasoning"
+    ],
+    "aliases": [
+      "perplexity-logo",
+      "perplexity-search",
+      "ai-search"
+    ]
+  },
+  {
+    "name": "pinecone.svg",
+    "category": "Vector Databases",
+    "description": "The Pinecone vector database logo.",
+    "tags": [
+      "pinecone",
+      "vector-database",
+      "embedding",
+      "search",
+      "logo",
+      "brand",
+      "ai"
+    ],
+    "aliases": [
+      "pinecone-logo",
+      "vector-db",
+      "pinecone-db"
+    ]
+  },
+  {
+    "name": "playwright.svg",
+    "category": "Integrations",
+    "description": "The Playwright browser automation library logo.",
+    "tags": [
+      "playwright",
+      "browser",
+      "automation",
+      "testing",
+      "e2e",
+      "logo",
+      "integration"
+    ],
+    "aliases": [
+      "playwright-logo",
+      "browser-automation",
+      "e2e-testing",
+      "browser-test"
+    ]
+  },
+  {
+    "name": "plugin.svg",
+    "category": "Integrations",
+    "description": "A plug/socket icon representing a plugin or extension integration.",
+    "tags": [
+      "plugin",
+      "extension",
+      "plug",
+      "integration",
+      "module",
+      "add-on",
+      "connect"
+    ],
+    "aliases": [
+      "add-on",
+      "extension",
+      "module",
+      "connect"
+    ]
+  },
+  {
+    "name": "plus.svg",
+    "category": "UI Controls",
+    "description": "A plus sign representing adding, creating, or expanding.",
+    "tags": [
+      "plus",
+      "add",
+      "create",
+      "new",
+      "insert",
+      "expand",
+      "increase"
+    ],
+    "aliases": [
+      "add",
+      "create",
+      "new",
+      "insert"
+    ]
+  },
+  {
+    "name": "postgres.svg",
+    "category": "Vector Databases",
+    "description": "The PostgreSQL relational database logo.",
+    "tags": [
+      "postgres",
+      "postgresql",
+      "database",
+      "sql",
+      "relational",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "postgresql",
+      "postgres-logo",
+      "sql-db",
+      "relational-db"
+    ]
+  },
+  {
+    "name": "puppeteer.svg",
+    "category": "Integrations",
+    "description": "The Puppeteer browser automation library logo.",
+    "tags": [
+      "puppeteer",
+      "browser",
+      "automation",
+      "headless",
+      "scrape",
+      "logo",
+      "integration"
+    ],
+    "aliases": [
+      "puppeteer-logo",
+      "browser-automation",
+      "headless-browser",
+      "scraping"
+    ]
+  },
+  {
+    "name": "puzzle.svg",
+    "category": "Integrations",
+    "description": "A puzzle piece representing a plugin, extension, or integration component.",
+    "tags": [
+      "puzzle",
+      "plugin",
+      "extension",
+      "piece",
+      "integration",
+      "component",
+      "module"
+    ],
+    "aliases": [
+      "plugin",
+      "extension",
+      "module",
+      "component"
+    ]
+  },
+  {
+    "name": "pytorch.svg",
+    "category": "AI Models",
+    "description": "The PyTorch deep learning framework logo.",
+    "tags": [
+      "pytorch",
+      "ml",
+      "deep-learning",
+      "framework",
+      "torch",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "pytorch-logo",
+      "torch",
+      "deep-learning",
+      "ml-framework"
+    ]
+  },
+  {
+    "name": "qdrant.svg",
+    "category": "Vector Databases",
+    "description": "The Qdrant vector database logo.",
+    "tags": [
+      "qdrant",
+      "vector-database",
+      "embedding",
+      "search",
+      "logo",
+      "brand",
+      "ai"
+    ],
+    "aliases": [
+      "qdrant-logo",
+      "vector-db",
+      "qdrant-db"
+    ]
+  },
+  {
+    "name": "rabbit-ai.svg",
+    "category": "AI Models",
+    "description": "A rabbit icon representing the Rabbit AI device or assistant.",
+    "tags": [
+      "rabbit",
+      "ai",
+      "assistant",
+      "device",
+      "logo",
+      "brand",
+      "model"
+    ],
+    "aliases": [
+      "rabbit-logo",
+      "rabbit-device",
+      "rabbit-r1"
+    ]
+  },
+  {
+    "name": "rank-bar-arrow-down.svg",
+    "category": "Data & Files",
+    "description": "A bar chart with a downward arrow representing declining rank or descending sort.",
+    "tags": [
+      "rank",
+      "bar",
+      "down",
+      "decrease",
+      "sort",
+      "order",
+      "chart"
+    ],
+    "aliases": [
+      "rank-down",
+      "descending-rank",
+      "sort-desc",
+      "declining"
+    ]
+  },
+  {
+    "name": "rank-bar-arrow-up.svg",
+    "category": "Data & Files",
+    "description": "A bar chart with an upward arrow representing improving rank or ascending sort.",
+    "tags": [
+      "rank",
+      "bar",
+      "up",
+      "increase",
+      "sort",
+      "order",
+      "chart"
+    ],
+    "aliases": [
+      "rank-up",
+      "ascending-rank",
+      "sort-asc",
+      "improving"
+    ]
+  },
+  {
+    "name": "rank-bar.svg",
+    "category": "Data & Files",
+    "description": "A bar chart with ranked bars representing ranking visualization.",
+    "tags": [
+      "rank",
+      "bar",
+      "chart",
+      "order",
+      "score",
+      "rank-chart",
+      "analytics"
+    ],
+    "aliases": [
+      "bar-rank",
+      "ranking-chart",
+      "score-bar",
+      "analytics"
+    ]
+  },
+  {
+    "name": "rank-podium.svg",
+    "category": "Data & Files",
+    "description": "A podium with ranked positions representing ranking or leaderboard.",
+    "tags": [
+      "rank",
+      "podium",
+      "leaderboard",
+      "score",
+      "order",
+      "top",
+      "position"
+    ],
+    "aliases": [
+      "leaderboard",
+      "ranking",
+      "score",
+      "top-3"
+    ]
+  },
+  {
+    "name": "recycle.svg",
+    "category": "Actions & Tools",
+    "description": "Three arrows forming a recycle loop representing reuse or regeneration.",
+    "tags": [
+      "recycle",
+      "loop",
+      "repeat",
+      "regenerate",
+      "cycle",
+      "reuse",
+      "refresh"
+    ],
+    "aliases": [
+      "regenerate",
+      "cycle",
+      "reuse",
+      "loop"
+    ]
+  },
+  {
+    "name": "redis.svg",
+    "category": "Vector Databases",
+    "description": "The Redis in-memory data store logo.",
+    "tags": [
+      "redis",
+      "cache",
+      "database",
+      "memory",
+      "nosql",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "redis-logo",
+      "redis-cache",
+      "in-memory-db"
+    ]
+  },
+  {
+    "name": "replicate.svg",
+    "category": "AI Models",
+    "description": "The Replicate AI model hosting platform logo.",
+    "tags": [
+      "replicate",
+      "model",
+      "host",
+      "ai",
+      "deploy",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "replicate-logo",
+      "model-host",
+      "ai-hosting",
+      "replicate-platform"
+    ]
+  },
+  {
+    "name": "ribbon-award-circle.svg",
+    "category": "Misc",
+    "description": "A circular award ribbon representing recognition or achievement.",
+    "tags": [
+      "ribbon",
+      "award",
+      "circle",
+      "achievement",
+      "medal",
+      "badge",
+      "honor"
+    ],
+    "aliases": [
+      "award-circle",
+      "medal",
+      "achievement",
+      "honor"
+    ]
+  },
+  {
+    "name": "ribbon-award.svg",
+    "category": "Misc",
+    "description": "A ribbon award medal representing achievement or recognition.",
+    "tags": [
+      "ribbon",
+      "award",
+      "medal",
+      "achievement",
+      "prize",
+      "badge",
+      "honor"
+    ],
+    "aliases": [
+      "award",
+      "medal",
+      "prize",
+      "achievement"
+    ]
+  },
+  {
+    "name": "robot.svg",
+    "category": "AI Concepts",
+    "description": "A robot face with antennas and eyes representing a bot or AI assistant.",
+    "tags": [
+      "robot",
+      "bot",
+      "ai",
+      "assistant",
+      "automation",
+      "machine",
+      "android"
+    ],
+    "aliases": [
+      "bot",
+      "ai-robot",
+      "android",
+      "automation"
+    ]
+  },
+  {
+    "name": "save-floppy-disk-back.svg",
+    "category": "Memory & Storage",
+    "description": "The back side of a floppy disk representing saving or archiving data.",
+    "tags": [
+      "floppy",
+      "save",
+      "disk",
+      "storage",
+      "archive",
+      "data",
+      "back"
+    ],
+    "aliases": [
+      "floppy-back",
+      "save-disk",
+      "disk-back",
+      "archive"
+    ]
+  },
+  {
+    "name": "save-floppy-disk.svg",
+    "category": "Memory & Storage",
+    "description": "A floppy disk representing the save action or data persistence.",
+    "tags": [
+      "floppy",
+      "save",
+      "disk",
+      "storage",
+      "persist",
+      "data",
+      "write"
+    ],
+    "aliases": [
+      "save",
+      "floppy-disk",
+      "disk-save",
+      "persist"
+    ]
+  },
+  {
+    "name": "scissors.svg",
+    "category": "Actions & Tools",
+    "description": "A scissors icon representing cutting, trimming, or splitting content.",
+    "tags": [
+      "scissors",
+      "cut",
+      "trim",
+      "split",
+      "remove",
+      "clip",
+      "divide"
+    ],
+    "aliases": [
+      "cut",
+      "trim",
+      "clip",
+      "divide"
+    ]
+  },
+  {
+    "name": "search-alert.svg",
+    "category": "Actions & Tools",
+    "description": "A magnifying glass with an alert badge representing a search with an issue or notification.",
+    "tags": [
+      "search",
+      "alert",
+      "notification",
+      "warning",
+      "find",
+      "bell",
+      "flag"
+    ],
+    "aliases": [
+      "search-notification",
+      "find-alert",
+      "search-warning",
+      "alert-search"
+    ]
+  },
+  {
+    "name": "search.svg",
+    "category": "Actions & Tools",
+    "description": "A magnifying glass representing search functionality.",
+    "tags": [
+      "search",
+      "find",
+      "magnify",
+      "query",
+      "lookup",
+      "explore",
+      "discover"
+    ],
+    "aliases": [
+      "find",
+      "lookup",
+      "magnify",
+      "query"
+    ]
+  },
+  {
+    "name": "searchapi.svg",
+    "category": "Integrations",
+    "description": "A search API service icon representing search tool integration.",
+    "tags": [
+      "search",
+      "api",
+      "web",
+      "serp",
+      "integration",
+      "query",
+      "logo"
+    ],
+    "aliases": [
+      "search-api",
+      "searchapi-logo",
+      "web-search-api"
+    ]
+  },
+  {
+    "name": "send-angle.svg",
+    "category": "Actions & Tools",
+    "description": "A paper airplane at an angle representing sending a message.",
+    "tags": [
+      "send",
+      "angle",
+      "paper-plane",
+      "message",
+      "submit",
+      "dispatch",
+      "chat"
+    ],
+    "aliases": [
+      "angled-send",
+      "paper-plane",
+      "send-message",
+      "dispatch"
+    ]
+  },
+  {
+    "name": "send-right.svg",
+    "category": "Actions & Tools",
+    "description": "A rightward-pointing send arrow representing sending a message or action.",
+    "tags": [
+      "send",
+      "right",
+      "submit",
+      "message",
+      "forward",
+      "deliver",
+      "dispatch"
+    ],
+    "aliases": [
+      "send-message",
+      "submit",
+      "forward",
+      "deliver"
+    ]
+  },
+  {
+    "name": "serp.svg",
+    "category": "Integrations",
+    "description": "A search engine results page icon representing SERP API integration.",
+    "tags": [
+      "serp",
+      "search",
+      "results",
+      "seo",
+      "google",
+      "api",
+      "integration"
+    ],
+    "aliases": [
+      "serp-api",
+      "search-results",
+      "seo",
+      "google-results"
+    ]
+  },
+  {
+    "name": "serper.svg",
+    "category": "Integrations",
+    "description": "The Serper search API integration logo.",
+    "tags": [
+      "serper",
+      "search",
+      "google",
+      "api",
+      "serp",
+      "integration",
+      "logo"
+    ],
+    "aliases": [
+      "serper-api",
+      "serper-logo",
+      "google-search-api",
+      "web-search-api"
+    ]
+  },
+  {
+    "name": "settings-gear-eight.svg",
+    "category": "UI Controls",
+    "description": "An eight-toothed gear icon representing settings or detailed configuration.",
+    "tags": [
+      "settings",
+      "gear",
+      "config",
+      "eight",
+      "cog",
+      "preferences",
+      "options"
+    ],
+    "aliases": [
+      "gear-eight",
+      "config",
+      "preferences",
+      "eight-tooth-gear"
+    ]
+  },
+  {
+    "name": "settings-gear-six.svg",
+    "category": "UI Controls",
+    "description": "A six-toothed gear icon representing settings or configuration.",
+    "tags": [
+      "settings",
+      "gear",
+      "config",
+      "six",
+      "cog",
+      "preferences",
+      "options"
+    ],
+    "aliases": [
+      "gear-six",
+      "config",
+      "preferences",
+      "six-tooth-gear"
+    ]
+  },
+  {
+    "name": "share-export.svg",
+    "category": "Actions & Tools",
+    "description": "A share icon with an export arrow representing sharing or exporting content.",
+    "tags": [
+      "share",
+      "export",
+      "send",
+      "distribute",
+      "publish",
+      "spread",
+      "out"
+    ],
+    "aliases": [
+      "export-share",
+      "send-out",
+      "publish",
+      "distribute"
+    ]
+  },
+  {
+    "name": "shield-check.svg",
+    "category": "Status & Feedback",
+    "description": "A shield with a checkmark representing security, protection, or verification.",
+    "tags": [
+      "shield",
+      "check",
+      "security",
+      "safe",
+      "protected",
+      "verified",
+      "guard"
+    ],
+    "aliases": [
+      "security",
+      "protected",
+      "verified",
+      "safe"
+    ]
+  },
+  {
+    "name": "shield-cross.svg",
+    "category": "Status & Feedback",
+    "description": "A shield with a cross/X representing security failure or blocked access.",
+    "tags": [
+      "shield",
+      "cross",
+      "block",
+      "deny",
+      "security",
+      "failure",
+      "reject"
+    ],
+    "aliases": [
+      "blocked",
+      "denied",
+      "security-fail",
+      "reject"
+    ]
+  },
+  {
+    "name": "shield-key.svg",
+    "category": "Actions & Tools",
+    "description": "A shield with a key inside representing secured authentication or key-based protection.",
+    "tags": [
+      "shield",
+      "key",
+      "security",
+      "auth",
+      "protect",
+      "credential",
+      "access"
+    ],
+    "aliases": [
+      "key-shield",
+      "secure-key",
+      "auth-shield",
+      "protected-key"
+    ]
+  },
+  {
+    "name": "shield.svg",
+    "category": "Status & Feedback",
+    "description": "A plain shield representing protection or security.",
+    "tags": [
+      "shield",
+      "protect",
+      "secure",
+      "guard",
+      "safe",
+      "defense",
+      "privacy"
+    ],
+    "aliases": [
+      "protection",
+      "secure",
+      "guard",
+      "defense"
+    ]
+  },
+  {
+    "name": "singlestore.svg",
+    "category": "Vector Databases",
+    "description": "The SingleStore real-time database logo.",
+    "tags": [
+      "singlestore",
+      "database",
+      "realtime",
+      "sql",
+      "logo",
+      "brand",
+      "analytics"
+    ],
+    "aliases": [
+      "singlestore-logo",
+      "memsql",
+      "realtime-db",
+      "singlestore-db"
+    ]
+  },
+  {
+    "name": "slider-filter-horizontal.svg",
+    "category": "UI Controls",
+    "description": "Horizontal sliders with filter knobs representing horizontal filter controls.",
+    "tags": [
+      "slider",
+      "filter",
+      "horizontal",
+      "adjust",
+      "control",
+      "tune",
+      "settings"
+    ],
+    "aliases": [
+      "horizontal-slider",
+      "filter-horizontal",
+      "tune",
+      "adjust"
+    ]
+  },
+  {
+    "name": "slider-filter-vertical.svg",
+    "category": "UI Controls",
+    "description": "Vertical sliders with filter knobs representing vertical filter controls.",
+    "tags": [
+      "slider",
+      "filter",
+      "vertical",
+      "adjust",
+      "control",
+      "tune",
+      "settings"
+    ],
+    "aliases": [
+      "vertical-slider",
+      "filter-vertical",
+      "vertical-filter",
+      "tune"
+    ]
+  },
+  {
+    "name": "snowflake.svg",
+    "category": "Vector Databases",
+    "description": "The Snowflake data cloud platform logo.",
+    "tags": [
+      "snowflake",
+      "data",
+      "warehouse",
+      "cloud",
+      "database",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "snowflake-logo",
+      "data-cloud",
+      "snowflake-db",
+      "data-warehouse"
+    ]
+  },
+  {
+    "name": "sparkle.svg",
+    "category": "AI Concepts",
+    "description": "Three star-shaped sparkles of different sizes representing magic, AI, or highlights.",
+    "tags": [
+      "sparkle",
+      "star",
+      "magic",
+      "ai",
+      "glow",
+      "shine",
+      "highlight"
+    ],
+    "aliases": [
+      "stars",
+      "magic",
+      "glow",
+      "ai-sparkle"
+    ]
+  },
+  {
+    "name": "speed-meter.svg",
+    "category": "Misc",
+    "description": "A speed gauge or speedometer representing performance metrics.",
+    "tags": [
+      "speed",
+      "meter",
+      "performance",
+      "gauge",
+      "benchmark",
+      "fast",
+      "metric"
+    ],
+    "aliases": [
+      "speedometer",
+      "gauge",
+      "performance",
+      "benchmark"
+    ]
+  },
+  {
+    "name": "split.svg",
+    "category": "Navigation & Arrows",
+    "description": "A single line forking into two arrows, representing a split or branch.",
+    "tags": [
+      "split",
+      "fork",
+      "branch",
+      "divide",
+      "separate",
+      "path",
+      "diverge"
+    ],
+    "aliases": [
+      "fork",
+      "branch",
+      "divide",
+      "diverge"
+    ]
+  },
+  {
+    "name": "splitter-character.svg",
+    "category": "AI Concepts",
+    "description": "A text character with a split symbol representing character-level text chunking.",
+    "tags": [
+      "splitter",
+      "character",
+      "chunk",
+      "split",
+      "text",
+      "segment",
+      "rag"
+    ],
+    "aliases": [
+      "char-splitter",
+      "character-chunk",
+      "text-split",
+      "character-segment"
+    ]
+  },
+  {
+    "name": "splitter-code.svg",
+    "category": "AI Concepts",
+    "description": "A code file with a split symbol representing code-aware text chunking.",
+    "tags": [
+      "splitter",
+      "code",
+      "chunk",
+      "split",
+      "programming",
+      "rag",
+      "segment"
+    ],
+    "aliases": [
+      "code-splitter",
+      "code-chunk",
+      "code-split",
+      "programming-segment"
+    ]
+  },
+  {
+    "name": "splitter-markdown.svg",
+    "category": "AI Concepts",
+    "description": "A Markdown file icon with a split symbol representing chunking Markdown documents.",
+    "tags": [
+      "splitter",
+      "markdown",
+      "chunk",
+      "split",
+      "document",
+      "text",
+      "rag"
+    ],
+    "aliases": [
+      "markdown-splitter",
+      "md-chunk",
+      "document-split",
+      "rag-split"
+    ]
+  },
+  {
+    "name": "star-half-split.svg",
+    "category": "UI Controls",
+    "description": "A half-filled star representing a partial rating.",
+    "tags": [
+      "star",
+      "half",
+      "rating",
+      "partial",
+      "score",
+      "review",
+      "split"
+    ],
+    "aliases": [
+      "half-star",
+      "partial-rating",
+      "score",
+      "rating-half"
+    ]
+  },
+  {
+    "name": "star-half.svg",
+    "category": "UI Controls",
+    "description": "A half-filled star representing a partial rating value.",
+    "tags": [
+      "star",
+      "half",
+      "rating",
+      "partial",
+      "score",
+      "review",
+      "value"
+    ],
+    "aliases": [
+      "half-star",
+      "partial-rating",
+      "rating-half",
+      "half-score"
+    ]
+  },
+  {
+    "name": "star.svg",
+    "category": "UI Controls",
+    "description": "A five-pointed star used for favorites, ratings, or bookmarks.",
+    "tags": [
+      "star",
+      "favorite",
+      "rating",
+      "bookmark",
+      "like",
+      "mark",
+      "feature"
+    ],
+    "aliases": [
+      "favorite",
+      "rating",
+      "bookmark",
+      "like"
+    ]
+  },
+  {
+    "name": "sticky-note-text.svg",
+    "category": "Data & Files",
+    "description": "A sticky note with text lines representing a note or annotation.",
+    "tags": [
+      "sticky-note",
+      "note",
+      "annotation",
+      "memo",
+      "text",
+      "reminder",
+      "post-it"
+    ],
+    "aliases": [
+      "note",
+      "memo",
+      "annotation",
+      "post-it"
+    ]
+  },
+  {
+    "name": "sticky-note.svg",
+    "category": "Data & Files",
+    "description": "A sticky note square representing a memo or quick note.",
+    "tags": [
+      "sticky-note",
+      "note",
+      "memo",
+      "post-it",
+      "reminder",
+      "yellow",
+      "quick"
+    ],
+    "aliases": [
+      "post-it",
+      "memo",
+      "quick-note",
+      "reminder"
+    ]
+  },
+  {
+    "name": "stopwatch-timer.svg",
+    "category": "Misc",
+    "description": "A stopwatch representing timing, latency measurement, or benchmarks.",
+    "tags": [
+      "stopwatch",
+      "timer",
+      "time",
+      "latency",
+      "benchmark",
+      "measure",
+      "speed"
+    ],
+    "aliases": [
+      "timer",
+      "latency",
+      "benchmark",
+      "measure"
+    ]
+  },
+  {
+    "name": "sun.svg",
+    "category": "Misc",
+    "description": "A sun with radiating rays representing light mode or daytime.",
+    "tags": [
+      "sun",
+      "light",
+      "day",
+      "bright",
+      "theme",
+      "mode",
+      "rays"
+    ],
+    "aliases": [
+      "light-mode",
+      "day-mode",
+      "brightness",
+      "theme"
+    ]
+  },
+  {
+    "name": "supabase.svg",
+    "category": "Vector Databases",
+    "description": "The Supabase open-source database platform logo.",
+    "tags": [
+      "supabase",
+      "postgres",
+      "database",
+      "backend",
+      "logo",
+      "brand",
+      "vector"
+    ],
+    "aliases": [
+      "supabase-logo",
+      "supabase-db",
+      "firebase-alternative"
+    ]
+  },
+  {
+    "name": "tag-chevron.svg",
+    "category": "UI Controls",
+    "description": "A tag with a chevron/arrow element representing a directional tag or breadcrumb.",
+    "tags": [
+      "tag",
+      "chevron",
+      "label",
+      "breadcrumb",
+      "category",
+      "navigate",
+      "arrow"
+    ],
+    "aliases": [
+      "chevron-tag",
+      "breadcrumb",
+      "directional-tag",
+      "label-arrow"
+    ]
+  },
+  {
+    "name": "tag-simple.svg",
+    "category": "UI Controls",
+    "description": "A simple pointed tag shape for labeling or categorization.",
+    "tags": [
+      "tag",
+      "label",
+      "simple",
+      "category",
+      "badge",
+      "classify",
+      "mark"
+    ],
+    "aliases": [
+      "label-tag",
+      "simple-tag",
+      "classify",
+      "badge"
+    ]
+  },
+  {
+    "name": "tag.svg",
+    "category": "UI Controls",
+    "description": "A tag shape with a hole for labeling or categorizing items.",
+    "tags": [
+      "tag",
+      "label",
+      "category",
+      "badge",
+      "mark",
+      "classify",
+      "metadata"
+    ],
+    "aliases": [
+      "label",
+      "badge",
+      "category",
+      "classify"
+    ]
+  },
+  {
+    "name": "target.svg",
+    "category": "Misc",
+    "description": "A bullseye target with concentric circles representing a goal or accuracy.",
+    "tags": [
+      "target",
+      "goal",
+      "bullseye",
+      "aim",
+      "accuracy",
+      "objective",
+      "focus"
+    ],
+    "aliases": [
+      "bullseye",
+      "goal",
+      "aim",
+      "objective"
+    ]
+  },
+  {
+    "name": "tensorflow.svg",
+    "category": "AI Models",
+    "description": "The TensorFlow machine learning framework logo.",
+    "tags": [
+      "tensorflow",
+      "ml",
+      "deep-learning",
+      "google",
+      "framework",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "tensorflow-logo",
+      "tf",
+      "deep-learning",
+      "ml-framework"
+    ]
+  },
+  {
+    "name": "text.svg",
+    "category": "Data & Files",
+    "description": "A text block or lines representing plain textual content.",
+    "tags": [
+      "text",
+      "content",
+      "paragraph",
+      "string",
+      "words",
+      "lines",
+      "write"
+    ],
+    "aliases": [
+      "content",
+      "paragraph",
+      "string",
+      "words"
+    ]
+  },
+  {
+    "name": "token-split.svg",
+    "category": "AI Concepts",
+    "description": "A token shape split in two representing token splitting or chunking.",
+    "tags": [
+      "token",
+      "split",
+      "chunk",
+      "divide",
+      "segment",
+      "ai",
+      "tokenize"
+    ],
+    "aliases": [
+      "token-chunk",
+      "split-token",
+      "tokenize",
+      "segment"
+    ]
+  },
+  {
+    "name": "token.svg",
+    "category": "AI Concepts",
+    "description": "A hexagonal token shape representing AI tokens used in language models.",
+    "tags": [
+      "token",
+      "hex",
+      "unit",
+      "ai",
+      "language-model",
+      "compute",
+      "segment"
+    ],
+    "aliases": [
+      "ai-token",
+      "language-token",
+      "llm-token",
+      "unit"
+    ]
+  },
+  {
+    "name": "tool-get.svg",
+    "category": "AI Concepts",
+    "description": "A tool icon with GET label representing an AI tool that makes HTTP GET calls.",
+    "tags": [
+      "tool",
+      "get",
+      "http",
+      "api",
+      "fetch",
+      "request",
+      "ai"
+    ],
+    "aliases": [
+      "get-tool",
+      "http-get-tool",
+      "fetch-tool",
+      "api-tool-get"
+    ]
+  },
+  {
+    "name": "tool-post.svg",
+    "category": "AI Concepts",
+    "description": "A wrench/tool icon with POST label representing an AI tool that makes HTTP POST calls.",
+    "tags": [
+      "tool",
+      "post",
+      "http",
+      "api",
+      "call",
+      "function",
+      "ai"
+    ],
+    "aliases": [
+      "post-tool",
+      "http-post-tool",
+      "api-tool-post",
+      "tool-call"
+    ]
+  },
+  {
+    "name": "tool.svg",
+    "category": "AI Concepts",
+    "description": "A wrench icon representing a tool or function callable by an AI agent.",
+    "tags": [
+      "tool",
+      "wrench",
+      "function",
+      "call",
+      "capability",
+      "ai",
+      "plugin"
+    ],
+    "aliases": [
+      "function-call",
+      "tool-call",
+      "capability",
+      "wrench"
+    ]
+  },
+  {
+    "name": "trash.svg",
+    "category": "Actions & Tools",
+    "description": "A trash can with a lid representing delete or discard actions.",
+    "tags": [
+      "trash",
+      "delete",
+      "remove",
+      "discard",
+      "bin",
+      "garbage",
+      "clear"
+    ],
+    "aliases": [
+      "delete",
+      "remove",
+      "bin",
+      "garbage"
+    ]
+  },
+  {
+    "name": "unstructured-file.svg",
+    "category": "Integrations",
+    "description": "A file icon with Unstructured branding for processing unstructured documents.",
+    "tags": [
+      "unstructured",
+      "file",
+      "parsing",
+      "document",
+      "extraction",
+      "integration",
+      "process"
+    ],
+    "aliases": [
+      "unstructured-doc",
+      "parse-file",
+      "document-parse",
+      "unstructured-process"
+    ]
+  },
+  {
+    "name": "unstructured-folder.svg",
+    "category": "Integrations",
+    "description": "A folder with Unstructured branding for processing folders of documents.",
+    "tags": [
+      "unstructured",
+      "folder",
+      "parsing",
+      "documents",
+      "extraction",
+      "integration",
+      "batch"
+    ],
+    "aliases": [
+      "unstructured-dir",
+      "parse-folder",
+      "document-folder",
+      "batch-parse"
+    ]
+  },
+  {
+    "name": "unstructured-logo.svg",
+    "category": "Integrations",
+    "description": "The Unstructured.io data parsing platform logo.",
+    "tags": [
+      "unstructured",
+      "parsing",
+      "data",
+      "extraction",
+      "logo",
+      "brand",
+      "integration"
+    ],
+    "aliases": [
+      "unstructured-io",
+      "data-parsing",
+      "document-extraction",
+      "unstructured-brand"
+    ]
+  },
+  {
+    "name": "upscale.svg",
+    "category": "AI Concepts",
+    "description": "An image or element with upscaling arrows representing AI image upscaling.",
+    "tags": [
+      "upscale",
+      "enhance",
+      "resolution",
+      "ai",
+      "image",
+      "super-resolution",
+      "scale"
+    ],
+    "aliases": [
+      "enhance",
+      "super-resolution",
+      "image-upscale",
+      "scale-up"
+    ]
+  },
+  {
+    "name": "upstash-redis.svg",
+    "category": "Vector Databases",
+    "description": "The Upstash serverless Redis logo.",
+    "tags": [
+      "upstash",
+      "redis",
+      "serverless",
+      "cache",
+      "database",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "upstash-logo",
+      "serverless-redis",
+      "upstash-db"
+    ]
+  },
+  {
+    "name": "variable-bracket.svg",
+    "category": "Code & Development",
+    "description": "A variable symbol inside brackets representing a bracketed variable expression.",
+    "tags": [
+      "variable",
+      "bracket",
+      "expression",
+      "code",
+      "template",
+      "placeholder",
+      "syntax"
+    ],
+    "aliases": [
+      "bracketed-variable",
+      "template-variable",
+      "expression",
+      "placeholder"
+    ]
+  },
+  {
+    "name": "variable-down.svg",
+    "category": "Code & Development",
+    "description": "A variable symbol with a downward arrow representing a decreasing variable value.",
+    "tags": [
+      "variable",
+      "down",
+      "decrease",
+      "value",
+      "code",
+      "dynamic",
+      "change"
+    ],
+    "aliases": [
+      "var-down",
+      "decreasing-variable",
+      "value-down",
+      "dynamic-down"
+    ]
+  },
+  {
+    "name": "variable-up.svg",
+    "category": "Code & Development",
+    "description": "A variable symbol with an upward arrow representing a variable with increasing value.",
+    "tags": [
+      "variable",
+      "up",
+      "increase",
+      "value",
+      "code",
+      "dynamic",
+      "change"
+    ],
+    "aliases": [
+      "var-up",
+      "increasing-variable",
+      "value-up",
+      "dynamic-up"
+    ]
+  },
+  {
+    "name": "variable.svg",
+    "category": "Code & Development",
+    "description": "An X-shaped variable symbol representing a variable or unknown value in code.",
+    "tags": [
+      "variable",
+      "code",
+      "math",
+      "symbol",
+      "placeholder",
+      "value",
+      "programming"
+    ],
+    "aliases": [
+      "var",
+      "placeholder",
+      "symbol",
+      "value"
+    ]
+  },
+  {
+    "name": "vectara.svg",
+    "category": "Vector Databases",
+    "description": "The Vectara semantic search platform logo.",
+    "tags": [
+      "vectara",
+      "vector",
+      "search",
+      "rag",
+      "logo",
+      "brand",
+      "semantic"
+    ],
+    "aliases": [
+      "vectara-logo",
+      "semantic-search",
+      "vectara-db"
+    ]
+  },
+  {
+    "name": "verified-checkmark.svg",
+    "category": "Status & Feedback",
+    "description": "A badge with a checkmark inside indicating verified or certified status.",
+    "tags": [
+      "verified",
+      "check",
+      "badge",
+      "certified",
+      "approved",
+      "authentic",
+      "valid"
+    ],
+    "aliases": [
+      "certified",
+      "approved",
+      "authentic",
+      "verified-badge"
+    ]
+  },
+  {
+    "name": "warning-octagon.svg",
+    "category": "Status & Feedback",
+    "description": "An octagonal warning shape with an exclamation mark for critical alerts.",
+    "tags": [
+      "warning",
+      "octagon",
+      "error",
+      "critical",
+      "danger",
+      "alert",
+      "stop"
+    ],
+    "aliases": [
+      "error",
+      "critical",
+      "danger",
+      "stop-sign"
+    ]
+  },
+  {
+    "name": "warning-round.svg",
+    "category": "Status & Feedback",
+    "description": "A circular warning icon with an exclamation mark for general alerts.",
+    "tags": [
+      "warning",
+      "round",
+      "circle",
+      "alert",
+      "caution",
+      "exclamation",
+      "notice"
+    ],
+    "aliases": [
+      "round-warning",
+      "circle-alert",
+      "caution-circle",
+      "notice"
+    ]
+  },
+  {
+    "name": "warning-triangle.svg",
+    "category": "Status & Feedback",
+    "description": "A triangle with an exclamation mark indicating a warning or caution.",
+    "tags": [
+      "warning",
+      "triangle",
+      "alert",
+      "caution",
+      "danger",
+      "notice",
+      "exclamation"
+    ],
+    "aliases": [
+      "alert-triangle",
+      "caution",
+      "danger-triangle",
+      "notice"
+    ]
+  },
+  {
+    "name": "wave-sound.svg",
+    "category": "Misc",
+    "description": "Vertical bars of varying heights representing a sound wave or audio visualization.",
+    "tags": [
+      "wave",
+      "sound",
+      "audio",
+      "waveform",
+      "music",
+      "voice",
+      "signal"
+    ],
+    "aliases": [
+      "sound-wave",
+      "waveform",
+      "audio-visualization",
+      "voice-wave"
+    ]
+  },
+  {
+    "name": "wave.svg",
+    "category": "Misc",
+    "description": "A wavy line representing audio, signal, or a wave pattern.",
+    "tags": [
+      "wave",
+      "signal",
+      "audio",
+      "frequency",
+      "sound",
+      "pattern",
+      "flow"
+    ],
+    "aliases": [
+      "signal",
+      "audio-wave",
+      "frequency",
+      "pattern"
+    ]
+  },
+  {
+    "name": "weaviate.svg",
+    "category": "Vector Databases",
+    "description": "The Weaviate vector database logo.",
+    "tags": [
+      "weaviate",
+      "vector-database",
+      "embedding",
+      "search",
+      "logo",
+      "brand",
+      "ai"
+    ],
+    "aliases": [
+      "weaviate-logo",
+      "vector-db",
+      "weaviate-db"
+    ]
+  },
+  {
+    "name": "web-browser.svg",
+    "category": "Integrations",
+    "description": "A browser window representing web browsing or internet access.",
+    "tags": [
+      "web",
+      "browser",
+      "internet",
+      "window",
+      "navigate",
+      "url",
+      "page"
+    ],
+    "aliases": [
+      "browser",
+      "internet",
+      "navigate",
+      "url"
+    ]
+  },
+  {
+    "name": "web-globe.svg",
+    "category": "Misc",
+    "description": "A globe with latitude/longitude grid lines representing the web or internet.",
+    "tags": [
+      "web",
+      "globe",
+      "internet",
+      "world",
+      "browser",
+      "network",
+      "global"
+    ],
+    "aliases": [
+      "internet",
+      "world-wide-web",
+      "global",
+      "network"
+    ]
+  },
+  {
+    "name": "write-pen.svg",
+    "category": "Actions & Tools",
+    "description": "A pen icon representing writing, authoring, or signing.",
+    "tags": [
+      "write",
+      "pen",
+      "edit",
+      "author",
+      "sign",
+      "compose",
+      "ink"
+    ],
+    "aliases": [
+      "pen",
+      "author",
+      "sign",
+      "compose"
+    ]
+  },
+  {
+    "name": "write-pencil.svg",
+    "category": "Actions & Tools",
+    "description": "A pencil icon with an underline representing writing or editing.",
+    "tags": [
+      "write",
+      "pencil",
+      "edit",
+      "author",
+      "compose",
+      "draw",
+      "create"
+    ],
+    "aliases": [
+      "pencil",
+      "edit",
+      "compose",
+      "author"
+    ]
+  },
+  {
+    "name": "zapier.svg",
+    "category": "Integrations",
+    "description": "The Zapier workflow automation platform logo.",
+    "tags": [
+      "zapier",
+      "automation",
+      "workflow",
+      "integration",
+      "trigger",
+      "logo",
+      "brand"
+    ],
+    "aliases": [
+      "zapier-logo",
+      "workflow-automation",
+      "zapier-integration"
+    ]
+  },
+  {
+    "name": "zep.svg",
+    "category": "Integrations",
+    "description": "The Zep memory platform logo for AI chat memory.",
+    "tags": [
+      "zep",
+      "memory",
+      "ai",
+      "chat",
+      "logo",
+      "brand",
+      "integration"
+    ],
+    "aliases": [
+      "zep-logo",
+      "zep-memory",
+      "chat-memory"
+    ]
+  },
+  {
+    "name": "zoom-in.svg",
+    "category": "UI Controls",
+    "description": "A magnifying glass with a plus sign representing zoom in or increase size.",
+    "tags": [
+      "zoom",
+      "in",
+      "magnify",
+      "plus",
+      "enlarge",
+      "focus",
+      "increase"
+    ],
+    "aliases": [
+      "zoom-in",
+      "enlarge",
+      "magnify",
+      "increase-size"
+    ]
+  },
+  {
+    "name": "zoom-out.svg",
+    "category": "UI Controls",
+    "description": "A magnifying glass with a minus sign representing zoom out.",
+    "tags": [
+      "zoom",
+      "out",
+      "magnify",
+      "minus",
+      "reduce",
+      "view",
+      "decrease"
+    ],
+    "aliases": [
+      "zoom-out",
+      "reduce",
+      "shrink-view",
+      "decrease-size"
+    ]
+  }
+]
